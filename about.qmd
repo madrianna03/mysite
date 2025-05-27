@@ -1,9 +1,10 @@
 ---
 title: "About"
+format: html
 ---
 
 About this site
 
 ```{r}
-1 + 1
+
 ```
