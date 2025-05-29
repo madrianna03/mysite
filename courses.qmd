@@ -1,5 +1,4 @@
 ---
-title: "Projects"
+title: "Courses"
 format: html
 ---
-
