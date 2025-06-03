@@ -1,12 +1,37 @@
 ---
-title: "Home"
+title: "Adrianna Martinez"
 format: html
+image: images/portrait.jpeg
+toc: false
+about: 
+  template: jolla
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/adrianna-martinez-3101a3325
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:madrianna03@gmail.com
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/madrianna03
+      target: _blank
 ---
 
-This is a Quarto website.
+### Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello and welcome to my page! My name is Adrianna Martinez and I am completing my third year of undergrad at the University of California Santa Barbara. I am pursuing a Bachelor’s of Science in Environmental Studies with a minor in Earth Science. 
 
-```{r}
-1 + 1
-```
+I grew up in the heart of Las Vegas, NV, where my passions for the outdoors and habitat preservation began to flourish, driving my academic and career goals today. I have always loved various outdoor activities such as off-roading, skiing, tennis, soccer, camping, and running. 
+
+Currently, I am working with Santa Barbara Channelkeeper, monitoring fishing, boating, and recreational activities in MPA’s along the coast. You can also find me at the bowling alley, serving kids birthday parties, corporate events, and the bowling regulars.  
+
+With a new found love for rocks and plate tectonics, I hope to pursue a career path to becoming a geologist!
+
+### Education
+
+**Environmental Studies B.S. and Earth Science Minor** (2026) \\\| University of California, Santa Barbara
+
+**Faith Lutheran High School** (2022)
