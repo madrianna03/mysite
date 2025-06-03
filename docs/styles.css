@@ -1,1 +1,74 @@
-/* css styles */
+/* General body styles */
+body {
+  background-color: #f6f9f4; /* soft off-white green */
+  color: #2e3d30; /* dark green-gray for text */
+  font-family: "Georgia", serif;
+  line-height: 1.6;
+  padding-bottom: 2rem;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #3a6351; /* deep earthy green */
+  font-family: "Georgia", serif;
+}
+
+/* Links */
+a {
+  color: #4f8a8b; /* soft teal blue */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #93748a; /* muted lavender */
+  text-decoration: underline;
+}
+
+/* Navbar customization */
+.navbar {
+  background-color: #dbe9d8; /* pale moss green */
+  border-bottom: 2px solid #a68a64; /* soft brown accent */
+}
+
+.navbar a {
+  color: #3a4d39 !important; /* darker green for nav links */
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: #6a5d4d !important; /* warm brown hover */
+}
+
+/* Code blocks and inline code */
+code {
+  background-color: #eaf2ea; /* pale green */
+  color: #4a6c59; /* dark sage */
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+pre {
+  background-color: #f1f7f0;
+  border-left: 4px solid #8c7c68;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 5px solid #a68a64; /* brown accent */
+  background-color: #f9fdf8;
+  padding: 1rem;
+  color: #5c6d5c;
+  font-style: italic;
+}
+
+/* Footer, if any */
+footer {
+  background-color: #dce6dc;
+  color: #3a4d39;
+  padding: 1rem;
+  text-align: center;
+  border-top: 2px solid #a68a64;
+}
