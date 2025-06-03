@@ -1,7 +1,7 @@
 ---
 title: "Adrianna Martinez"
 format: html
-image: images/portrait.jpeg
+image: images/portrait.jpg
 toc: false
 about: 
   template: jolla
@@ -32,6 +32,6 @@ With a new found love for rocks and plate tectonics, I hope to pursue a career p
 
 ### Education
 
-**Environmental Studies B.S. and Earth Science Minor** (2026) \\\| University of California, Santa Barbara
+**Environmental Studies B.S. and Earth Science Minor** (2026) \| University of California, Santa Barbara
 
 **Faith Lutheran High School** (2022)
