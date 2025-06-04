@@ -1,4 +1,77 @@
 ---
 title: "Resume"
-format: html
+format: 
+  html:
+    css: styles.css
+page-layout: full
 ---
+[Download My Resume (PDF)](files/Martinez Adrianna_Resume (current) (1).pdf){.resume-download}
+
+# Education
+
+::: resume-card
+**University of California, Santa Barbara**\
+*B.S. in Environmental Studies, Minor in Earth Science*\
+Santa Barbara, CA — *Expected Graduation: 2026*\
+**GPA:** 3.8\
+**Honors:** Regents Scholar, Dean’s Scholar, Promise Scholar
+:::
+
+::: resume-card
+**Faith Lutheran High School**\
+*B.S. in Environmental Studies, Minor in Earth Science*\
+Las Vegas, NV — *Graduation: 2022*\
+**GPA:** 4.0 unweighted\
+**Awards/Honors:** Academic Excellence, Scholastic Art and Writing Silver Key and Gold Key x4, Scholar Athlete, English Award, Social Studies Award, AP Scholar with Distinction, Honors Institute, Legacy Award
+:::
+
+------------------------------------------------------------------------
+
+# Experience
+
+::: resume-card
+### SB Channelkeeper — *MPA Watch Intern*
+
+Goleta/Santa Barbara, CA · Jan 2025–Present\
+- Conduct marine surveys and record human activity in MPAs\
+- Assist and train volunteers; conduct quality control for logged data\
+- Demonstrate leadership and independence in field monitoring
+:::
+
+::: resume-card
+### Bowlero — *Server / Bartender*
+
+Goleta, CA · Nov 2023–Present\
+- Managed 12–24 bowling lanes while maintaining top sales\
+- Coordinated events setup/teardown and multitasked under pressure\
+- Worked across departments: front desk, arcade, bar, and food service
+:::
+
+::: resume-card
+### YMCA — *Camp Counselor*
+
+Santa Barbara, CA · June 2023–Aug 2023\
+- Led activities for 30–50 kids aged 6–8\
+- Coordinated themed days and educational activities\
+- Maintained communication with parents and handled conflict resolution
+:::
+
+------------------------------------------------------------------------
+
+# Leadership & Activities
+
+**UCSB Edible Campus Program**\
+*Community Gardening & Sustainability Outreach*\
+Santa Barbara, CA · Mar 2023–June 2024\
+:::
+
+------------------------------------------------------------------------
+
+# Skills
+
+::: resume-card
+-   GIS (ArcGIS Pro, QGIS)\
+-   Microsoft Word & Excel\
+-   Fieldwork & Survey Techniques\
+-   Event Coordination\
+:::

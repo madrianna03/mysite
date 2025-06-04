@@ -128,3 +128,39 @@ footer {
   background-color: #f0f4f1;
   width: 100%;
 }
+
+.resume-card {
+  background-color: #f7fdf7;
+  border: 1px solid #cbd5cb;
+  border-radius: 10px;
+  padding: 1rem 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.resume-card h3, .resume-card h4 {
+  margin-top: 0;
+  color: #2d4739;
+}
+
+.resume-card ul {
+  margin-top: 0.5rem;
+}
+
+a.resume-download {
+  display: inline-block;
+  background-color: #3a6351;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  margin-top: 1rem;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+a.resume-download:hover {
+  background-color: #2e4e3d;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
