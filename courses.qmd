@@ -1,4 +1,86 @@
 ---
 title: "Courses"
-format: html
+format: 
+  html:
+    css: styles.css
+page-layout: full
 ---
+
+A selection of coursework that has shaped my interests in environmental science, geology, and sustainable resource management. Projects linked below will become available soon!
+
+------------------------------------------------------------------------
+
+## Environmental Science Courses
+
+### ENV S 154: GIS for Environmental Applications
+
+Explored how Geographic Information Systems (GIS) help analyze and communicate spatial patterns in environmental systems.\
+**Project:** Spatial analysis of groundwater contamination in California due to agriculture and ranching.\
+➡️ [*View Project (coming soon)*](projects/gis-groundwater.qmd)
+
+------------------------------------------------------------------------
+
+### ENV S 115: Energy and the Environment
+
+Covered energy extraction, consumption, justice, economics, and policy.\
+**Project:** Policy memo on sustainable lithium extraction in the Imperial Valley.\
+➡️ [*Read the memo (coming soon)*](projects/lithium-policy.qmd)
+
+------------------------------------------------------------------------
+
+### ENV S 140: Ecology and Management of Wildfire
+
+Analyzed wildfire impacts on ecosystems, climate, and management strategies.\
+Included field trips to Sedgwick Reserve and Los Padres National Forest.\
+**Project:** Research paper on cultural burning and fire regimes in Australia.\
+➡️ [*Read the paper (coming soon)*](projects/wildfire-australia.qmd)
+
+------------------------------------------------------------------------
+
+### ENV S 193GW: Groundwater Analysis
+
+Studied groundwater hydrology, aquifer dynamics, and California groundwater policy.
+
+------------------------------------------------------------------------
+
+### ENV S 193DS: Stats for Environmental Science
+
+Applied statistics to environmental datasets using R.\
+**Project:** Personal data study on productivity patterns over time.\
+➡️ [*See project (coming soon)*](projects/productivity-stats.qmd)\
+*This website was also built during this course!*
+
+------------------------------------------------------------------------
+
+## 🌍 Earth Science Courses
+
+### EARTH 18: Field Studies
+
+Field course exploring the geology of Joshua Tree and the Salton Sea during a 4-day field trip.
+
+------------------------------------------------------------------------
+
+### EARTH 2: Principles of Physical Geology
+
+Introduction to Earth's surface and interior processes.\
+Included a one-day field trip to the Santa Ynez Mountains.
+
+------------------------------------------------------------------------
+
+## Upcoming Courses
+
+### ENV S 172: Waste Management
+
+Covers sustainable waste systems, recycling, composting, incineration, and landfilling.
+
+### EARTH 111: Principles of Paleontology
+
+Studies the structure and evolution of the biosphere through the fossil record.
+
+### EARTH 114: Geomaterials
+
+Examines the chemistry and structure of the Earth’s crust, mantle, and core.
+
+### ENV S 95: Restoration Skills
+
+Hands-on ecological restoration techniques including site planning, species management, and habitat monitoring.

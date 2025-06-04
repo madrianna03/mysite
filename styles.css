@@ -164,3 +164,25 @@ a.resume-download:hover {
   background-color: #2e4e3d;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
+
+h3, h4 {
+  color: #3a6351;
+}
+
+a {
+  color: #4f8a8b;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #37685f;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #ddd;
+  margin: 2rem 0;
+}
