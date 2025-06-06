@@ -18,7 +18,7 @@ page-layout: article
 ## Data Sources
 
 | **Name** | **Source** | **Year** | **Link** | **Data Format** | **Attributes/Fields** | **Description** |
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|----|----|----|----|----|----|----|
 | GAMA Groundwater Info | USGS Priority Basin Project | 2023 | [GAMA Groundwater](https://gamagroundwater.waterboards.ca.gov/gama/datadownload) | Point Vector | GM_WELL_ID, GM_CHEMICAL_NAME, GM_RESULT | Measures 199 contaminants from wells representing 95% of CA groundwater. |
 | 15_Crop_Mapping_2023 | Land IQ, CA Dept. of Water Resources | 2024 | [Land Use Mapping](https://www.landiq.com/) | Polygon Vector | CROP_TYPE, Shape_Area, MAIN_CROP | 446,000+ field-classified polygons by crop type. |
 | BLM Range Allotments | Bureau of Land Management | 2022–24 | [BLM Range](https://gis.blm.gov) | Polygon Vector | Shape_Area | Grazing allotments defined spatially in CA. |

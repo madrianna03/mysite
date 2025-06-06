@@ -60,7 +60,7 @@
     "href": "stats_project.html",
     "title": "Statistics Project",
     "section": "",
-    "text": "Statistics Final Project\nAn analysis of X using R and Quarto. Includes full code and graphs.\n🔗 GitHub Repo)"
+    "text": "View the Project\nThis project analyzes how study productivity is influenced by factors like caffeine intake, amount of sleep, study location, and whether the session was alone or social. It uses personal data tracked over a several months using Excel, R, and Quarto. Includes full code and graphs.\nGitHub Repo"
   },
   {
     "objectID": "stats_project.html#projects",
