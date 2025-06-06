@@ -5,7 +5,8 @@ format:
     css: styles.css
 page-layout: full
 ---
-[Download My Resume (PDF)](files/Martinez Adrianna_Resume (current) (1).pdf){.resume-download}
+
+[Download My Resume (PDF)](files/Martinez%20Adrianna_Resume%20(current)%20(1).pdf){.resume-download}
 
 # Education
 

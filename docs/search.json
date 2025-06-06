@@ -47,5 +47,12 @@
     "title": "Courses",
     "section": "Upcoming Courses",
     "text": "Upcoming Courses\n\nENV S 172: Waste Management\nCovers sustainable waste systems, recycling, composting, incineration, and landfilling.\n\n\nEARTH 111: Principles of Paleontology\nStudies the structure and evolution of the biosphere through the fossil record.\n\n\nEARTH 114: Geomaterials\nExamines the chemistry and structure of the Earth’s crust, mantle, and core.\n\n\nENV S 95: Restoration Skills\nHands-on ecological restoration techniques including site planning, species management, and habitat monitoring."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Browse my projects below. Click on any project to read more.\n\n \n\n  &lt;span class=\"post-caption\"&gt;GIS&lt;/span&gt;\n  &lt;h3&gt;Contamination of Domestic Wells in California&lt;/h3&gt;\n  &lt;p&gt;A spatial analysis of agricultural and ranching contamination threats to domestic well users in California.&lt;/p&gt;\n&lt;/div&gt;\n\n \n\n  &lt;span class=\"post-caption\"&gt;Env Policy&lt;/span&gt;\n  &lt;h3&gt;California Water Policy Analysis&lt;/h3&gt;\n  &lt;p&gt;Research and recommendations on sustainable water resource management in California.&lt;/p&gt;\n&lt;/div&gt;\n\n \n\n  &lt;span class=\"post-caption\"&gt;GIS Mapping&lt;/span&gt;\n  &lt;h3&gt;Mapping Urban Heat Islands&lt;/h3&gt;\n  &lt;p&gt;Using GIS to identify and analyze urban heat hotspots for sustainable city planning.&lt;/p&gt;\n&lt;/div&gt;"
   }
 ]
