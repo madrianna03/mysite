@@ -1,5 +1,16 @@
 ---
-title: "stats_project"
+title: "Statistics Project"
+author: "Adrianna Martinez"
 format: html
+page-layout: full
+repo-url: https://github.com/yourusername/your-stats-project-repo
+repo-actions: [source]
 ---
 
+## Projects
+
+::: project-entry
+[**Statistics Final Project**](Project_ENVS193DS_homework3.qmd)\
+An analysis of X using R and Quarto. Includes full code and graphs.\
+[🔗 GitHub Repo](https://github.com/madrianna03/ENVS-193DS_homework-03))
+:::

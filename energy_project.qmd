@@ -1,5 +1,40 @@
 ---
 title: "energy_project"
 format: html
+css: styles.css
+page-layout: article
 ---
 
+# Policy Memo: Sustainable Lithium Extraction in California’s Imperial Valley
+
+## Project Overview
+
+This memo was created for an undergraduate course on **Energy and the Environment**, and focuses on the trade-offs and potential policy strategies surrounding lithium extraction from geothermal brine in the Imperial Valley. The project evaluates environmental, social, and economic dimensions of California's push for domestic battery mineral production in support of its clean energy goals.
+
+------------------------------------------------------------------------
+
+## Memo PDF
+
+[Download the Policy Memo (PDF)](files/Martinez_Thornburg_ES115.pdf){.memo-download}
+
+------------------------------------------------------------------------
+
+## Key Takeaways
+
+-   **Freshwater strain from DLE operations**\
+    Direct lithium extraction (DLE) is more efficient than evaporation methods but still consumes significant freshwater from the Colorado River, a source already facing severe depletion.
+
+-   **Air quality and Salton Sea risks**\
+    Lithium development could worsen Imperial Valley’s already poor air quality by accelerating Salton Sea shrinkage, exposing pesticide-laden playa dust that exacerbates respiratory illnesses.
+
+-   **Hazardous waste gaps**\
+    DLE generates solid waste that often contains heavy metals like arsenic and lead. Current oversight is insufficient—stricter tracking, audits, and safer disposal methods are urgently needed.
+
+-   **Cultural site and Indigenous rights violations**\
+    Proposed projects threaten ancestral lands and sacred sites like Obsidian Butte. Existing consultation processes fall short of UN FPIC standards and must be reformed to center Indigenous leadership.
+
+-   **Seismic risks from geothermal expansion**\
+    The Imperial Valley’s location on the San Andreas Fault raises concerns about induced seismicity. Geothermal infrastructure must meet higher engineering standards and include real-time seismic monitoring.
+
+-   **Cumulative impact assessments are lacking**\
+    Existing environmental reviews fail to account for the combined effects of lithium, geothermal, and regional water stress—comprehensive EIAs must become mandatory for all new projects.

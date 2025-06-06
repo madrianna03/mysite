@@ -1,0 +1,28 @@
+date,time_of_day,study_duration_mins,with_others,caffeine_mg,sleep_hrs,location,productivity
+2025-04-17,Morning,180,No,0,9.1,Library,5
+2025-04-18,Evening,150,Yes,100,5.1,Outdoors,6
+2025-04-19,Evening,60,No,50,8.6,Library,1
+2025-04-20,Evening,150,Yes,250,7.9,Library,5
+2025-04-22,Night,45,No,150,5.9,Library,5
+2025-04-24,Evening,120,Yes,50,7.9,Bedroom,1
+2025-04-25,Night,180,Yes,0,5.1,Library,1
+2025-04-26,Morning,210,No,250,8.7,Coffee Shop,9
+2025-04-28,Morning,45,Yes,50,7.8,Library,1
+2025-05-01,Evening,120,No,100,7.1,Library,6
+2025-05-03,Morning,150,Yes,100,8.9,Bedroom,5
+2025-05-04,Night,180,Yes,0,6.6,Library,6
+2025-05-06,Morning,120,Yes,250,7.5,Bedroom,7
+2025-05-07,Evening,90,No,250,6.8,Bedroom,9
+2025-05-08,Afternoon,45,Yes,50,6.8,Outdoors,6
+2025-05-09,Night,120,No,50,5.9,Outdoors,1
+2025-05-13,Evening,120,No,0,6.7,Library,1
+2025-05-14,Evening,210,Yes,100,7.3,Library,5
+2025-05-16,Night,30,No,150,6.3,Bedroom,6
+2025-05-17,Morning,120,Yes,150,7.4,Bedroom,8
+2025-05-18,Morning,180,No,50,6.5,Outdoors,4
+2025-05-19,Night,45,No,100,5.3,Library,1
+2025-05-21,Afternoon,210,No,0,7.1,Library,10
+2025-05-22,Night,30,Yes,0,5.6,Bedroom,2
+2025-05-24,Afternoon,180,No,50,8.3,Library,6
+2025-05-25,Evening,45,Yes,50,7.9,Outdoors,4
+2025-05-27,Evening,120,No,100,6.8,Coffee Shop,10
