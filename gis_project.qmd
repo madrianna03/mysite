@@ -5,8 +5,6 @@ css: styles.css
 page-layout: article
 ---
 
-# GIS Project: Agricultural Land Use and Domestic Well Contamination
-
 ## [View the Interactive Story Map](https://storymaps.arcgis.com/stories/9514d97598c54852af85de17c13f9c84){.button target="_blank"}
 
 ------------------------------------------------------------------------

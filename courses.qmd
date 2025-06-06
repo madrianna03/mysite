@@ -16,7 +16,7 @@ A selection of coursework that has shaped my interests in environmental science,
 
 Explored how Geographic Information Systems (GIS) help analyze and communicate spatial patterns in environmental systems.\
 **Project:** Spatial analysis of groundwater contamination in California due to agriculture and ranching.\
-➡️ [*View Project (coming soon)*](projects/gis-groundwater.qmd)
+➡ [*View Project*](gis_project.qmd)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Explored how Geographic Information Systems (GIS) help analyze and communicate s
 
 Covered energy extraction, consumption, justice, economics, and policy.\
 **Project:** Policy memo on sustainable lithium extraction in the Imperial Valley.\
-➡️ [*Read the memo (coming soon)*](projects/lithium-policy.qmd)
+➡ [*Read the memo*](energy_project.qmd)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ Covered energy extraction, consumption, justice, economics, and policy.\
 Analyzed wildfire impacts on ecosystems, climate, and management strategies.\
 Included field trips to Sedgwick Reserve and Los Padres National Forest.\
 **Project:** Research paper on cultural burning and fire regimes in Australia.\
-➡️ [*Read the paper (coming soon)*](projects/wildfire-australia.qmd)
+➡ [*Read the paper (coming soon)*](wildfire_project.qmd)
 
 ------------------------------------------------------------------------
 
@@ -47,12 +47,12 @@ Studied groundwater hydrology, aquifer dynamics, and California groundwater poli
 
 Applied statistics to environmental datasets using R.\
 **Project:** Personal data study on productivity patterns over time.\
-➡️ [*See project (coming soon)*](projects/productivity-stats.qmd)\
+➡ [*See project*](stats_project.qmd)\
 *This website was also built during this course!*
 
 ------------------------------------------------------------------------
 
-## 🌍 Earth Science Courses
+## Earth Science Courses
 
 ### EARTH 18: Field Studies
 
