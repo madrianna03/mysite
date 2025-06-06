@@ -8,45 +8,48 @@ page-layout: full
 
 Browse my projects below. Click on any project to read more.
 
-:::::: projects-blog
-<a href="gis_project.qmd" class="project-post"> ![Project 1 image](images/GIS_project_cover.jpg){alt="Project 1 image"}
+::: {.project-gallery}
 
-::::: post-content
-```         
-  <span class="post-caption">GIS</span>
-  <h3>Contamination of Domestic Wells in California</h3>
-  <p>A spatial analysis of agricultural and ranching contamination threats to domestic well users in California.</p>
-</div>
-```
+::: {.project-card}
+[<img src="images/GIS_project_cover.jpg" alt="GIS Project" class="project-image">]{href="gis_project.qmd"}
 
-</a>
+::: {.project-content}
+[GIS]{.project-tag}
 
-<a href="projects/project2.qmd" class="project-post"> ![Project 2 image](images/energy_project_cover.jpg){alt="Project 2 image"}
+### [Contamination of Domestic Wells]{.project-title}
 
-:::: post-content
-```         
-  <span class="post-caption">Policy Memo</span>
-  <h3>Sustainable Lithium Extraction in the Imperial Valley</h3>
-  <p>Research and recommendations on sustainable lithium extraction and waste management in Salton Sea.</p>
-</div>
-```
-
-</a>
-
-<a href="projects/project3.qmd" class="project-post"> <img src="images/project3-thumb.jpg" alt="Project 3 image"/>
-
-::: post-content
-```         
-  <span class="post-caption">RStudio</span>
-  <h3>Personal Data Visualization</h3>
-  <p>Using R to summarize and visual my own data regarding my productivity and factors such as caffeine intake, study location, etc. This project was completed in ENV S 193DS. </p>
-</div>
-```
-
-</a>
-
-<!-- Add more projects as you like -->
+A spatial analysis of agricultural and ranching contamination threats to domestic well users in California.
 :::
-::::
-:::::
-::::::
+
+[View Project →]{.project-link href="gis_project.qmd"}
+:::
+
+::: {.project-card}
+[<img src="images/energy_project_cover.jpg" alt="Energy Project" class="project-image">]{href="energy_project.qmd"}
+
+::: {.project-content}
+[Policy Memo]{.project-tag}
+
+### [Sustainable Lithium Extraction in the Imperial Valley]{.project-title}
+
+Research and recommendations on sustainable lithium extraction and waste management in Salton Sea.
+:::
+
+[View Project →]{.project-link href="energy_project.qmd"}
+:::
+
+::: {.project-card}
+[<img src="images/stats_cover.jpg" alt="Stats Project" class="project-image">]{href="stats_project.qmd"}
+
+::: {.project-content}
+[R / Data Viz]{.project-tag}
+
+### [Study Productivity]{.project-title}
+
+Using R to visualize my own daily habits around caffeine, sleep, and study location.
+:::
+
+[View Project →]{.project-link href="stats_project.qmd"}
+:::
+
+:::
