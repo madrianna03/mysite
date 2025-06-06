@@ -73,6 +73,7 @@ footer {
   border-top: 2px solid #a68a64;
 }
 
+/* Gallery 1 - No captions, just images */
 .hobby-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -85,48 +86,59 @@ footer {
 .hobby-gallery img {
   width: 100%;
   height: auto;
-  aspect-ratio: 4 / 3; /* crop to landscape-style box */
-  object-fit: cover;   /* crop excess */
-  border: 2px solid #888; /* subtle frame */
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 2px solid #888;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease;
+  border-radius: 8px; /* optional: rounded corners */
 }
 
 .hobby-gallery img:hover {
   transform: scale(1.02);
-
 }
+
+/* Gallery 2 - With captions and descriptions */
 .hobby2-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* slightly wider for captions */
+  gap: 20px;
   max-width: 1000px;
   margin: 2rem auto;
   padding: 0 1rem;
 }
 
-.hobby2-gallery img {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 4 / 3; /* crop to landscape-style box */
-  object-fit: cover;   /* crop excess */
-  border: 2px solid #888; /* subtle frame */
+/* Style the figure container for gallery 2 */
+.hobby2-gallery figure {
+  margin: 0;
+  background-color: #f0f4f1;
+  border-radius: 12px;
+  overflow: hidden;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease;
 }
 
-.hobby2-gallery img:hover {
-  transform: scale(1.02);
-
+.hobby2-gallery figure:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12);
 }
 
-.hobby-gallery figcaption {
+.hobby2-gallery img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: none; /* remove border since figure handles styling */
+  transition: none; /* remove individual image hover since figure handles it */
+}
+
+.hobby2-gallery figcaption {
   font-size: 0.95rem;
   color: #333;
-  padding: 0.5rem 1rem;
+  padding: 0.75rem 1rem;
   text-align: center;
   background-color: #f0f4f1;
-  width: 100%;
+  margin: 0;
 }
 
 .resume-card {
