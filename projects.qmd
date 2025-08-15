@@ -93,7 +93,7 @@ An analysis of the long standing role of Aboriginal fire traditions in the conte
 
 </p>
 
-<a href="wildfire_project.html" class="project-link">Coming Soon →</a>
+<a href="wildfire_project.html" class="project-link">View Project →</a>
 :::
 ::::
 :::::::::::

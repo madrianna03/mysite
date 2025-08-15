@@ -1,0 +1,58 @@
+---
+title: "wildfire_project"
+format: html
+css: styles.css
+page-layout: article
+---
+
+# Revitalizing Indigenous Fire Management Leadership in Australia: Integrating Aboriginal and Torres Strait Islander Knowledge Systems into Contemporary Fire Regimes
+
+## Project Overview
+
+This paper was written for an undergraduate course on **Wildfire Ecology and Management**, comparing institutional and traditional burning methods. This study examines the integration of Aboriginal and Torres Strait Islander fire management knowledge systems into contemporary Australian fire regimes, demonstrating the superior effectiveness of traditional approaches over institutional methods.
+
+------------------------------------------------------------------------
+
+## Project PDF
+
+[Download the Project Paper (PDF)](files/Martinez_ES140_Final3.pdf){.project-download}
+
+------------------------------------------------------------------------
+
+## Major Findings
+
+-   **Scientific Validation of Traditional Knowledge**: Paleoecological evidence shows Aboriginal fire management reduced fire severity over 18,000 years, with lower charring intensity during periods of intensive Indigenous occupation
+
+-   **Quantifiable Environmental Benefits**: Traditional fire management in northern Australia's West Arnhem Land project reduced methane and nitrous oxide emissions by 37.7% compared to baseline wildfire regimes
+
+-   **Superior Soil Health Outcomes**: Cultural burns significantly improved soil quality, making it lighter and increasing carbon and nitrogen content compared to unburnt areas or agency-led prescribed burns
+
+-   **Biodiversity Conservation Success**: Traditional burning creates essential habitat mosaics for fire-sensitive species, while institutional approaches in places like Kakadu National Park have failed to reverse population collapses
+
+-   **Economic Sustainability**: Indigenous fire management generates revenue through carbon markets while delivering environmental benefits, contrasting with institutional approaches that remain cost centers
+
+## Key Technical Insights
+
+-   **Strategic Timing**: Traditional burns occur during early dry season (March-July) using "cool" fires, contrasting with late-season wildfires under severe conditions
+
+-   **Landscape Mosaic Creation**: Small patchy burns (often around one hectare) create complex pyrodiversity mosaics essential for ecosystem resilience
+
+-   **Fuel Load Management**: Early season burns consume fine fuels while preserving soil organic matter and maintaining canopy integrity
+
+-   **Integrated Land Management**: Traditional approaches combine burning with activities like firewood collecting and litter management around individual trees
+
+## Critical Limitations of Institutional Approaches 
+
+-   **Replication Failures**: Despite decades of scientific study and technological advancement, institutional fire management cannot replicate traditional patch dynamics or ecological outcomes
+
+-   **Power Dynamics**: Current fire management systems are described as "supremacist systems" requiring decolonization and genuine Indigenous leadership
+
+-   **Knowledge Gaps**: Institutional approaches lack the holistic understanding of ecological relationships embedded in Indigenous knowledge systems
+
+## Policy Implications
+
+-   **Leadership Recognition**: Effective fire management requires genuine Indigenous leadership and decision-making authority, not merely adoption of techniques
+
+-   **Regulatory Reform**: Current frameworks remain poorly adapted to traditional burning approaches, requiring accommodation of fine-scale patch burning
+
+-   **Knowledge Transmission**: Intensive efforts needed to reconnect young Aboriginal people with fire knowledge embedded in broader cultural contexts
