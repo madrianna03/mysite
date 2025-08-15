@@ -8,14 +8,37 @@ I created this site to share my academic work and personal interests. Below are 
 
 Growing up in the desert, my family often spent time off-roading, dirt bike riding, and camping. We would travel to the deserts of Utah, hit trails in South Lake Tahoe, and venture into the red rocks of the Las Vegas valley. 
 
-<div class="hobby-gallery">
-  <div><img src="images/IMG_7873.jpg" alt="Hobby image"/></div>
-  <div><img src="images/IMG_1413.jpg" alt="Hobby image"/></div>
-  <div><img src="images/offroad1.jpg" alt="Off-road adventure"/></div>
-  <div><img src="images/offroad2.jpg" alt="Off-road adventure"/></div>
-  <div><img src="images/IMG_2880.jpg" alt="Off-road adventure"/></div>
+:::::::: hobby-gallery
+<div>
+
+<img src="images/IMG_7873.jpg" alt="Hobby image"/>
+
 </div>
 
+<div>
+
+<img src="images/IMG_1413.jpg" alt="Hobby image"/>
+
+</div>
+
+<div>
+
+<img src="images/offroad1.jpg" alt="Off-road adventure"/>
+
+</div>
+
+<div>
+
+<img src="images/offroad2.jpg" alt="Off-road adventure"/>
+
+</div>
+
+<div>
+
+<img src="images/IMG_2880.jpg" alt="Off-road adventure"/>
+
+</div>
+::::::::
 
 I love drawing and painting! I began practicing visual art in middle school and have expanded my artistic abilities over the years to watercolor, oil and acrylic, printmaking, charcoal and graphite, and ceramics. I love surrealism, incorporating landscapes, portraits, and vibrant colors into my works. Here you can see some of my favorite pieces and the inspiration behind each one.
 

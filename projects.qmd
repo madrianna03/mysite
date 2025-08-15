@@ -8,54 +8,92 @@ page-layout: full
 
 Browse my projects below. Click on any project to read more.
 
-<div class="project-gallery">
+::::::::::: project-gallery
+:::: project-card
+<a href="gis_project.html"> <img src="images/GIS_project_cover.jpg" alt="GIS Project" class="project-image"/> </a>
 
-<div class="project-card">
-  <a href="gis_project.html">
-    <img src="images/GIS_project_cover.jpg" alt="GIS Project" class="project-image">
-  </a>
-  <div class="project-content">
-   <span class="project-tag">GIS</span>
-   <h3 class="project-title">Contamination of Domestic Wells</h3>
-   <p class="project-description">A spatial analysis of agricultural and ranching contamination threats to domestic well users in California.</p>
-   <a href="gis_project.html" class="project-link">View Project →</a>
-  </div>
-</div>
+::: project-content
+[GIS]{.project-tag}
 
-<div class="project-card">
-  <a href="energy_project.html">
-    <img src="images/energy_project_cover.jpg" alt="Energy Project" class="project-image">
-  </a>
-  <div class="project-content">
-   <span class="project-tag">Policy Memo</span>
-   <h3 class="project-title">Sustainable Lithium Extraction in the Imperial Valley</h3>
-   <p class="project-description">Research and recommendations on sustainable lithium extraction and waste management in Salton Sea.</p>
-   <a href="energy_project.html" class="project-link">View Project →</a>
-  </div>
-</div>
+<h3 class="project-title">
 
-<div class="project-card">
-  <a href="stats_project.html">
-    <img src="images/stats_cover.png" alt="Stats Project" class="project-image">
-  </a>
-  <div class="project-content">
-   <span class="project-tag">R / Data Viz</span>
-   <h3 class="project-title">Study Productivity</h3>
-   <p class="project-description">Using R to visualize my own daily habits around caffeine, sleep, and study location.</p>
-   <a href="stats_project.html" class="project-link">View Project →</a>
-  </div>
-</div>
+Contamination of Domestic Wells
 
-<div class="project-card">
-  <a href="wildfire_project.html">
-    <img src="images/wildfire_cover.jpg" alt="Wildfire Project" class="project-image">
-  </a>
-  <div class="project-content">
-   <span class="project-tag">Report/Analysis</span>
-   <h3 class="project-title">The Revitalization and Leadership of Indigenous Fire Management in Australia</h3>
-   <p class="project-description">An analysis of the long standing role of Aboriginal fire traditions in the context of Australian fire regimes.</p>
-   <a href="wildfire_project.html" class="project-link">Coming Soon →</a>
-  </div>
-</div>
+</h3>
 
-</div>
+<p class="project-description">
+
+A spatial analysis of agricultural and ranching contamination threats to domestic well users in California.
+
+</p>
+
+<a href="gis_project.html" class="project-link">View Project →</a>
+:::
+::::
+
+:::: project-card
+<a href="energy_project.html"> <img src="images/energy_project_cover.jpg" alt="Energy Project" class="project-image"/> </a>
+
+::: project-content
+[Policy Memo]{.project-tag}
+
+<h3 class="project-title">
+
+Sustainable Lithium Extraction in the Imperial Valley
+
+</h3>
+
+<p class="project-description">
+
+Research and recommendations on sustainable lithium extraction and waste management in Salton Sea.
+
+</p>
+
+<a href="energy_project.html" class="project-link">View Project →</a>
+:::
+::::
+
+:::: project-card
+<a href="stats_project.html"> <img src="images/stats_cover.png" alt="Stats Project" class="project-image"/> </a>
+
+::: project-content
+[R / Data Viz]{.project-tag}
+
+<h3 class="project-title">
+
+Study Productivity
+
+</h3>
+
+<p class="project-description">
+
+Using R to visualize my own daily habits around caffeine, sleep, and study location.
+
+</p>
+
+<a href="stats_project.html" class="project-link">View Project →</a>
+:::
+::::
+
+:::: project-card
+<a href="wildfire_project.html"> <img src="images/wildfire_cover.jpg" alt="Wildfire Project" class="project-image"/> </a>
+
+::: project-content
+[Report/Analysis]{.project-tag}
+
+<h3 class="project-title">
+
+The Revitalization and Leadership of Indigenous Fire Management in Australia
+
+</h3>
+
+<p class="project-description">
+
+An analysis of the long standing role of Aboriginal fire traditions in the context of Australian fire regimes.
+
+</p>
+
+<a href="wildfire_project.html" class="project-link">Coming Soon →</a>
+:::
+::::
+:::::::::::

@@ -18,7 +18,7 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Download My Resume (PDF)\n\nEducation\n\nUniversity of California, Santa Barbara\nB.S. in Environmental Studies, Minor in Earth Science\nSanta Barbara, CA — Expected Graduation: 2026\nGPA: 3.8\nHonors: Regents Scholar, Dean’s Scholar, Promise Scholar\n\n\nFaith Lutheran High School\nB.S. in Environmental Studies, Minor in Earth Science\nLas Vegas, NV — Graduation: 2022\nGPA: 4.0 unweighted\nAwards/Honors: Academic Excellence, Scholastic Art and Writing Silver Key and Gold Key x4, Scholar Athlete, English Award, Social Studies Award, AP Scholar with Distinction, Honors Institute, Legacy Award\n\n\n\n\nExperience\n\nSB Channelkeeper — MPA Watch Intern\nGoleta/Santa Barbara, CA · Jan 2025–Present\n- Conduct marine surveys and record human activity in MPAs\n- Assist and train volunteers; conduct quality control for logged data\n- Demonstrate leadership and independence in field monitoring\n\n\nBowlero — Server / Bartender\nGoleta, CA · Nov 2023–Present\n- Managed 12–24 bowling lanes while maintaining top sales\n- Coordinated events setup/teardown and multitasked under pressure\n- Worked across departments: front desk, arcade, bar, and food service\n\n\nYMCA — Camp Counselor\nSanta Barbara, CA · June 2023–Aug 2023\n- Led activities for 30–50 kids aged 6–8\n- Coordinated themed days and educational activities\n- Maintained communication with parents and handled conflict resolution\n\n\n\n\nLeadership & Activities\nUCSB Edible Campus Program\nCommunity Gardening & Sustainability Outreach\nSanta Barbara, CA · Mar 2023–June 2024\n:::\n\n\n\nSkills\n\n\nGIS (ArcGIS Pro, QGIS)\n\nMicrosoft Word & Excel\n\nFieldwork & Survey Techniques\n\nEvent Coordination"
+    "text": "Download My Resume (PDF)\n\nEducation\n\nUniversity of California, Santa Barbara\nB.S. in Environmental Studies, Minor in Earth Science\nSanta Barbara, CA — Expected Graduation: 2026\nGPA: 3.8\nHonors: Regents Scholar, Dean’s Scholar, Promise Scholar\n\n\nFaith Lutheran High School\nB.S. in Environmental Studies, Minor in Earth Science\nLas Vegas, NV — Graduation: 2022\nGPA: 4.0 unweighted\nAwards/Honors: Academic Excellence, Scholastic Art and Writing Silver Key and Gold Key x4, Scholar Athlete, English Award, Social Studies Award, AP Scholar with Distinction, Honors Institute, Legacy Award\n\n\n\n\nExperience\n\nThe Honor Bar — Server\nMontecito, CA · June 2025–Present\n- Deliver exceptional service at a high-volume, upscale restaurant\n- Positively greets, serves, and converses with guests to create a personalized dining experience\n- Prioritize tasks and effectively communicates with team of servers, greeters, managers, and culinary colleagues\n\n\n\nSB Channelkeeper — MPA Watch Intern\nGoleta/Santa Barbara, CA · Jan 2025–July 2025\n- Conduct marine surveys and record human activity in MPAs\n- Assist and train volunteers; conduct quality control for logged data\n- Demonstrate leadership and independence in field monitoring\n\n\nBowlero — Server / Bartender\nGoleta, CA · Nov 2023–Present\n- Managed 12–24 bowling lanes while maintaining top sales\n- Coordinated events setup/teardown and multitasked under pressure\n- Worked across departments: front desk, arcade, bar, and food service\n\n\nYMCA — Camp Counselor\nSanta Barbara, CA · June 2023–Aug 2023\n- Led activities for 30–50 kids aged 6–8\n- Coordinated themed days and educational activities\n- Maintained communication with parents and handled conflict resolution\n\n\n\n\nLeadership & Activities\nUCSB Edible Campus Program\nCommunity Gardening & Sustainability Outreach\nSanta Barbara, CA · Mar 2023–June 2024\n:::\n\n\n\nSkills\n\n\nGIS (ArcGIS Pro, QGIS)\n\nMicrosoft Word & Excel\n\nFieldwork & Survey Techniques\n\nEvent Coordination"
   },
   {
     "objectID": "courses.html",
@@ -117,5 +117,33 @@
     "title": "Agricultural Land Use and Domestic Well Contamination in California",
     "section": "Workflow Diagram",
     "text": "Workflow Diagram"
+  },
+  {
+    "objectID": "energy_project.html",
+    "href": "energy_project.html",
+    "title": "energy_project",
+    "section": "",
+    "text": "This memo was created for an undergraduate course on Energy and the Environment, and focuses on the trade-offs and potential policy strategies surrounding lithium extraction from geothermal brine in the Imperial Valley. The project evaluates environmental, social, and economic dimensions of California’s push for domestic battery mineral production in support of its clean energy goals.\n\n\n\n\nDownload the Policy Memo (PDF)\n\n\n\n\n\nFreshwater strain from DLE operations\nDirect lithium extraction (DLE) is more efficient than evaporation methods but still consumes significant freshwater from the Colorado River, a source already facing severe depletion.\nAir quality and Salton Sea risks\nLithium development could worsen Imperial Valley’s already poor air quality by accelerating Salton Sea shrinkage, exposing pesticide-laden playa dust that exacerbates respiratory illnesses.\nHazardous waste gaps\nDLE generates solid waste that often contains heavy metals like arsenic and lead. Current oversight is insufficient—stricter tracking, audits, and safer disposal methods are urgently needed.\nCultural site and Indigenous rights violations\nProposed projects threaten ancestral lands and sacred sites like Obsidian Butte. Existing consultation processes fall short of UN FPIC standards and must be reformed to center Indigenous leadership.\nSeismic risks from geothermal expansion\nThe Imperial Valley’s location on the San Andreas Fault raises concerns about induced seismicity. Geothermal infrastructure must meet higher engineering standards and include real-time seismic monitoring.\nCumulative impact assessments are lacking\nExisting environmental reviews fail to account for the combined effects of lithium, geothermal, and regional water stress—comprehensive EIAs must become mandatory for all new projects."
+  },
+  {
+    "objectID": "energy_project.html#project-overview",
+    "href": "energy_project.html#project-overview",
+    "title": "energy_project",
+    "section": "",
+    "text": "This memo was created for an undergraduate course on Energy and the Environment, and focuses on the trade-offs and potential policy strategies surrounding lithium extraction from geothermal brine in the Imperial Valley. The project evaluates environmental, social, and economic dimensions of California’s push for domestic battery mineral production in support of its clean energy goals."
+  },
+  {
+    "objectID": "energy_project.html#memo-pdf",
+    "href": "energy_project.html#memo-pdf",
+    "title": "energy_project",
+    "section": "",
+    "text": "Download the Policy Memo (PDF)"
+  },
+  {
+    "objectID": "energy_project.html#key-takeaways",
+    "href": "energy_project.html#key-takeaways",
+    "title": "energy_project",
+    "section": "",
+    "text": "Freshwater strain from DLE operations\nDirect lithium extraction (DLE) is more efficient than evaporation methods but still consumes significant freshwater from the Colorado River, a source already facing severe depletion.\nAir quality and Salton Sea risks\nLithium development could worsen Imperial Valley’s already poor air quality by accelerating Salton Sea shrinkage, exposing pesticide-laden playa dust that exacerbates respiratory illnesses.\nHazardous waste gaps\nDLE generates solid waste that often contains heavy metals like arsenic and lead. Current oversight is insufficient—stricter tracking, audits, and safer disposal methods are urgently needed.\nCultural site and Indigenous rights violations\nProposed projects threaten ancestral lands and sacred sites like Obsidian Butte. Existing consultation processes fall short of UN FPIC standards and must be reformed to center Indigenous leadership.\nSeismic risks from geothermal expansion\nThe Imperial Valley’s location on the San Andreas Fault raises concerns about induced seismicity. Geothermal infrastructure must meet higher engineering standards and include real-time seismic monitoring.\nCumulative impact assessments are lacking\nExisting environmental reviews fail to account for the combined effects of lithium, geothermal, and regional water stress—comprehensive EIAs must become mandatory for all new projects."
   }
 ]
