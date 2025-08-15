@@ -6,7 +6,7 @@ format:
 page-layout: full
 ---
 
-[Download My Resume (PDF)](files/Martinez%20Adrianna_Resume%20(current)%20(1).pdf){.resume-download}
+[Download My Resume (PDF)](files/Martinez%20Adrianna_Resume%20(current)%20(2).pdf){.resume-download}
 
 # Education
 
@@ -31,9 +31,18 @@ Las Vegas, NV — *Graduation: 2022*\
 # Experience
 
 ::: resume-card
+### The Honor Bar — *Server*
+
+Montecito, CA · June 2025–Present\
+- Deliver exceptional service at a high-volume, upscale restaurant\
+- Positively greets, serves, and converses with guests to create a personalized dining experience\
+- Prioritize tasks and effectively communicates with team of servers, greeters, managers, and culinary colleagues\
+:::
+
+::: resume-card
 ### SB Channelkeeper — *MPA Watch Intern*
 
-Goleta/Santa Barbara, CA · Jan 2025–Present\
+Goleta/Santa Barbara, CA · Jan 2025–July 2025\
 - Conduct marine surveys and record human activity in MPAs\
 - Assist and train volunteers; conduct quality control for logged data\
 - Demonstrate leadership and independence in field monitoring
