@@ -8,7 +8,7 @@ page-layout: full
 
 Browse my projects below. Click on any project to read more.
 
-::::::::::: project-gallery
+::::::::::::: project-gallery
 :::: project-card
 <a href="gis_project.html"> <img src="images/GIS_project_cover.jpg" alt="GIS Project" class="project-image"/> </a>
 
@@ -96,4 +96,26 @@ An analysis of the long standing role of Aboriginal fire traditions in the conte
 <a href="wildfire_project.html" class="project-link">View Project →</a>
 :::
 ::::
-:::::::::::
+
+:::: project-card
+<a href="soil_project.html"> <img src="images/soils_image.jpg" alt="Soil Science Project" class="project-image"/> </a>
+
+::: project-content
+[Technical Report]{.project-tag}
+
+<h3 class="project-title">
+
+Erosion, Soils, and Adaptations: Plant Life in Bryce Canyon National Park
+
+</h3>
+
+<p class="project-description">
+
+A report of how soil forming processes have shaped vegetation and adaptation in Bryce Canyon National Park.
+
+</p>
+
+<a href="soil_project.html" class="project-link">View Project →</a>
+:::
+::::
+:::::::::::::

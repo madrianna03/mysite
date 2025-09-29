@@ -6,7 +6,7 @@ format:
 page-layout: full
 ---
 
-[Download My Resume (PDF)](files/Martinez%20Adrianna_Resume%20(current)%20(2).pdf){.resume-download}
+[Download My Resume (PDF)](files/Martinez_Resume_Geo-Intern%20(1).pdf){.resume-download}
 
 # Education
 

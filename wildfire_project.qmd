@@ -1,5 +1,5 @@
 ---
-title: "wildfire_project"
+title: "Wildfire Project"
 format: html
 css: styles.css
 page-layout: article
@@ -41,7 +41,7 @@ This paper was written for an undergraduate course on **Wildfire Ecology and Man
 
 -   **Integrated Land Management**: Traditional approaches combine burning with activities like firewood collecting and litter management around individual trees
 
-## Critical Limitations of Institutional Approaches 
+## Critical Limitations of Institutional Approaches
 
 -   **Replication Failures**: Despite decades of scientific study and technological advancement, institutional fire management cannot replicate traditional patch dynamics or ecological outcomes
 
