@@ -53,7 +53,7 @@ Research and recommendations on sustainable lithium extraction and waste managem
 ::::
 
 :::: project-card
-<a href="stats_project.html"> <img src="images/stats_cover.png" alt="Stats Project" class="project-image"/> </a>
+<a href="Project_ENVS193DS_homework3.html"> <img src="images/stats_cover.png" alt="Stats Project" class="project-image"/> </a>
 
 ::: project-content
 [R / Data Viz]{.project-tag}

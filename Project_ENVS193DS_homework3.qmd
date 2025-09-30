@@ -6,7 +6,10 @@ format:
   html:
     toc: true
     toc-float: true
-    code-float: true
+    code-fold: true
+page-layout: full
+repo-url: https://github.com/madrianna03/ENVS-193DS_homework-03
+  repo-actions:[source]
 ---
 
 [View the GitHub repository](https://github.com/madrianna03/ENVS-193DS_homework-03.git)
@@ -112,7 +115,7 @@ b.Sketch of Affective Visualization
 # Reshape and prepare the data (as before)
 
 # Load and prepare data
-df <- read.csv("~/git/ENVS-193DS_homework-03/data/ENVS193DS_personaldata_cleaned.csv") %>%
+df <- read_csv("data/ENVS193DS_personaldata_cleaned.csv") %>%
   mutate(
     date = as.Date(date),
     with_others = as.character(with_others),

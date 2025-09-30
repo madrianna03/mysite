@@ -12,6 +12,7 @@ project:
     - stats_project.qmd
     - wildfire_project.qmd
     - projects.qmd
+    - Project_ENVS193DS_homework3.qmd
 
 website:
   title: "Adrianna Martinez"
