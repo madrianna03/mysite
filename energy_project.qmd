@@ -1,5 +1,5 @@
 ---
-title: "energy_project"
+title: "Energy Project"
 format: html
 css: styles.css
 page-layout: article
