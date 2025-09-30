@@ -1,6 +1,177 @@
 ---
 title: "Soil Science Project"
-format: html
-css: styles.css
-page-layout: article
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-depth: 2
+    code-fold: true
+    css: styles.css
 ---
+
+::: research-question
+## Research Question
+
+**How do the soil-forming processes at Bryce Canyon affect plant growth and adaptation?**
+
+This study examines the relationship between soil types at Bryce Canyon National Park and plant adaptability, revealing insights into resilience in harsh, semi-arid conditions. Understanding these processes can inform conservation efforts and land management practices (Carr et al., 2022; Hildebrand, 2012).
+:::
+
+------------------------------------------------------------------------
+
+::: site-overview
+## Site Overview
+
+Bryce Canyon National Park is characterized by dramatic topography including high mesas, cliffs, and deep canyons. The park's soils are primarily composed of \*\*Entisols\*\* and \*\*Aridisols\*\*, formed from sandstone and limestone parent materials. The region's semiarid climate, combined with factors such as slope, elevation, and vegetation cover, creates diverse soil types that vary from deep, loamy soils in lowland areas to shallow, rocky soils on exposed ridges.
+
+Two key soil types dominate the landscape:
+
+-   \*\*Brycan very fine sandy loam\*\*: Typically found on gentle slopes with fine texture that allows for moderate water retention
+-   \*\*Paunsaugunt gravelly loam\*\*: Located at higher elevations and steeper slopes, characterized by coarser texture and well-drained conditions
+:::
+
+------------------------------------------------------------------------
+
+:::::::::: key-findings-section
+## Key Findings
+
+::::::::: findings-grid
+::: key-finding
+### 🌍 Soil Distribution Patterns
+
+Bryce Canyon features distinct soil zonation based on topography. Brycan very fine sandy loam dominates gentle slopes, while Paunsaugunt gravelly loam characterizes steeper, higher elevation areas, creating diverse growing conditions.
+:::
+
+::: key-finding
+### Moisture Variation and Vegetation
+
+Lowland areas with fine sandy loam retain more moisture, supporting diverse vegetation including grasses, forbs, and shrubs. Eolian-derived soils in these areas have higher moisture retention capacity due to their fine texture (Woods et al., 2001).
+:::
+
+::: key-finding
+### 🌲 Plant Adaptation Strategies
+
+Upland species like Utah juniper and pinyon pine thrive through specialized deep root systems that access water stored deeper in the soil profile. These adaptations allow survival in areas with coarser, well-drained soils (Graybosch & Buchanan, 1983; Stein, 1988).
+:::
+
+::: key-finding
+### 🌡️ Climate Change Impacts
+
+Declining snowfall and reduced evapotranspiration have shifted vegetation patterns toward species adapted to drier conditions, particularly affecting higher elevation areas where soil moisture is already limited (Carr et al., 2022; Hildebrand, 2012).
+:::
+
+::: key-finding
+### 🪨 Parent Material Influence
+
+Soils formed from limestone parent material tend to be more alkaline and less fertile, limiting plant growth. In contrast, sandstone-derived soils have more neutral pH and better moisture retention, supporting more diverse vegetation (Marine, 1963).
+:::
+
+::: key-finding
+### 🏔️ Microhabitat Creation
+
+Variations in soil texture, depth, and water retention capacity create distinct microhabitats throughout the park. These differences determine which plant species can thrive in each area (Graybosch & Buchanan, 1983).
+:::
+:::::::::
+::::::::::
+
+------------------------------------------------------------------------
+
+::::: visual-section
+## Visual Evidence
+
+::: figure-container
+### Figure 1: Soil Map of Bryce Canyon National Park
+
+\`\`\`{r, echo=FALSE, fig.cap="Soil distribution map showing Brycan very fine sandy loam and Paunsaugunt gravelly loam throughout Bryce Canyon National Park. Source: Web Soil Survey (2024)", out.width="100%"} \# Insert your soil map image knitr::include_graphics("images/soil_map.png") \`\`\`
+
+\*Soil map illustrating the spatial distribution of major soil types across Bryce Canyon National Park, highlighting the prevalence of fine sandy loams in lowland areas and gravelly loams on steeper terrain.\*
+:::
+
+::: figure-container
+### Figure 2: Ecoregions of Utah
+
+\`\`\`{r, echo=FALSE, fig.cap="Ecoregions map of Utah with Bryce Canyon region highlighted, showing the Wasatch and Uinta Mountains context. Source: Woods et al. (2001)", out.width="100%"} \# Insert your ecoregion map knitr::include_graphics("images/ecoregion_map.png") \`\`\`
+
+\*Regional ecoregions map contextualizing Bryce Canyon within the Wasatch and Uinta Mountains ecoregion, demonstrating the park's position within broader ecological zones of Utah.\*
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Soil Type Comparison
+
+::::: soil-comparison
+::: soil-card
+### Brycan Very Fine Sandy Loam
+
+-   **Location**: Gentle slopes, lowland areas
+-   **Texture**: Fine, well-structured
+-   **Water retention**: Moderate to high
+-   **Vegetation**: Grasses, forbs, shrubs
+-   **Origin**: Eolian (wind-deposited) sandstone
+-   **pH**: More neutral
+-   **Fertility**: Higher nutrient availability
+-   **Plant diversity**: Supports broader species variety
+:::
+
+::: soil-card
+### Paunsaugunt Gravelly Loam
+
+-   **Location**: Steep slopes, higher elevations
+-   **Texture**: Coarse, rocky
+-   **Water retention**: Low (rapid drainage)
+-   **Vegetation**: Pinyon pine, Utah juniper
+-   **Characteristics**: Shallow, well-drained
+-   **pH**: Variable, often more alkaline
+-   **Fertility**: Lower nutrient availability
+-   **Plant diversity**: Limited to drought-adapted species
+:::
+:::::
+
+------------------------------------------------------------------------
+
+::: discussion-section
+## Discussion
+
+The soils of Bryce Canyon are shaped by complex interactions of climate, topography, and parent material. The slower-draining soils in lowland areas (Brycan soils) provide more stable moisture conditions, supporting a variety of plants. In contrast, the coarser soils in upland areas (Paunsaugunt gravelly loam) promote plant species adapted to drier conditions.
+
+Woods et al. (2001) emphasize that areas with exposed bedrock, such as canyon walls and structural benches, have shallow, rocky soils less conducive to plant growth. These regions are dominated by species that can withstand harsh conditions including low nutrient availability and high evaporation rates.
+
+Soil-forming processes—including erosion, weathering, and deposition—play a fundamental role in determining which plant species can survive in different parts of the park. The combination of Quaternary colluvium, alluvium, and eolian materials shapes these soils, with variations in moisture availability directly affecting vegetation at each elevation and topographic position.
+:::
+
+------------------------------------------------------------------------
+
+::: conclusion-box
+## Conclusion
+
+Soil-forming processes significantly impact plant growth and adaptation in Bryce Canyon National Park. The diverse soil types, ranging from fine sandy loams to gravelly, rocky types, create distinct microhabitats that favor different plant species.
+
+Climate change, particularly the decrease in snowfall, further exacerbates challenges faced by plant species in the park, especially in areas with less moisture-retentive soils.
+
+### Future Research Directions
+
+-   Collect real-time soil moisture data across various soil types to understand seasonal variations
+-   Examine the role of soil microbes and their interaction with plant roots
+-   Assess long-term vegetation responses to continued climate change
+:::
+
+------------------------------------------------------------------------
+
+## References
+
+::: {#refs}
+Carr, A., Stark, A., Grinstead, A., & Frost, M. (2022). \*Bryce Canyon Water Resources: Monitoring Vegetation Health and Water Availability in Bryce Canyon National Park for Drought Stress Mitigation Planning\*. NASA DEVELOP National Program Maryland-Goddard.
+
+Graybosch, R.A., & Buchanan, H. (1983). Vegetative types and endemic plants of the Bryce Canyon Breaks. \*Great Basin Naturalist\*, 43(4), Article 19. https://scholarsarchive.byu.edu/gbn/vol43/iss4/19
+
+Hildebrand, T. (2012). \*Correlation Between Wetland Vegetative and Microbial Community Diversity of Bryce Canyon National Park's Southern Regions–Phase I\*. Colorado Plateau Cooperative Ecosystems Studies Unit; Agreement No. H1200-09-0005.
+
+Marine, I. (1963). Ground-water resources of the Bryce Canyon National Park area, Utah, with a section on the drilling of a test well. \*Hydrology of the Public Domain (Water Supply Paper 1475)\*, 441-477.
+
+Stein, S.J. (1988). Fire history of the Paunsaugunt Plateau in southern Utah. \*The Great Basin Naturalist\*, 48(1), 58-63. http://www.jstor.org/stable/41712409
+
+Web Soil Survey (WSS). (2024). \*Web Soil Survey - Home\*. Retrieved from https://websoilsurvey.nrcs.usda.gov/
+
+Woods, A.J., Lammers, D.A., Bryce, S.A., Omernik, J.M., Denton, R.L., Domeier, M., & Comstock, J.A. (2001). \*Ecoregions of Utah\* (color poster with map, descriptive text, summary tables, and photographs). Reston, Virginia: U.S. Geological Survey (map scale 1:1,175,000).
+:::
