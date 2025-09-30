@@ -28,6 +28,14 @@ Covered energy extraction, consumption, justice, economics, and policy.\
 
 ------------------------------------------------------------------------
 
+### ENV S 114: Soil Science
+
+Studied the fundamentals of soil formation and classification while discovering how soil properties influence vegetation. \
+**Project:** Technical report on plant adaptation in Bryce Canyon.\
+➡ [*Read the report*](soil_project.qmd)
+
+------------------------------------------------------------------------
+
 ### ENV S 140: Ecology and Management of Wildfire
 
 Analyzed wildfire impacts on ecosystems, climate, and management strategies.\
@@ -67,20 +75,30 @@ Included a one-day field trip to the Santa Ynez Mountains.
 
 ------------------------------------------------------------------------
 
-## Upcoming Courses
-
-### ENV S 172: Waste Management
-
-Covers sustainable waste systems, recycling, composting, incineration, and landfilling.
-
 ### EARTH 111: Principles of Paleontology
 
 Studies the structure and evolution of the biosphere through the fossil record.
 
+------------------------------------------------------------------------
+
+### EARTH 104A: Field Methods in Geology
+
+Applies data gathered in the field to QGIS and Adobe Illustrator for analysis. Includes weekly field trips.
+
+------------------------------------------------------------------------
+
 ### EARTH 114: Geomaterials
 
-Examines the chemistry and structure of the Earth’s crust, mantle, and core.
+Examines the chemistry and structure of the Earth’s minerals.
+
+------------------------------------------------------------------------
 
 ### ENV S 95: Restoration Skills
 
 Hands-on ecological restoration techniques including site planning, species management, and habitat monitoring.
+
+
+------------------------------------------------------------------------
+
+## Upcoming Courses
+
