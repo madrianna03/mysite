@@ -22,12 +22,12 @@ This study examines the relationship between soil types at Bryce Canyon National
 ::: site-overview
 ## Site Overview
 
-Bryce Canyon National Park is characterized by dramatic topography including high mesas, cliffs, and deep canyons. The park's soils are primarily composed of \*\*Entisols\*\* and \*\*Aridisols\*\*, formed from sandstone and limestone parent materials. The region's semiarid climate, combined with factors such as slope, elevation, and vegetation cover, creates diverse soil types that vary from deep, loamy soils in lowland areas to shallow, rocky soils on exposed ridges.
+Bryce Canyon National Park is characterized by dramatic topography including high mesas, cliffs, and deep canyons. The park's soils are primarily composed of **Entisols** and **Aridisols**, formed from sandstone and limestone parent materials. The region's semiarid climate, combined with factors such as slope, elevation, and vegetation cover, creates diverse soil types that vary from deep, loamy soils in lowland areas to shallow, rocky soils on exposed ridges.
 
 Two key soil types dominate the landscape:
 
--   \*\*Brycan very fine sandy loam\*\*: Typically found on gentle slopes with fine texture that allows for moderate water retention
--   \*\*Paunsaugunt gravelly loam\*\*: Located at higher elevations and steeper slopes, characterized by coarser texture and well-drained conditions
+-   **Brycan very fine sandy loam**: Typically found on gentle slopes with fine texture that allows for moderate water retention
+-   **Paunsaugunt gravelly loam**: Located at higher elevations and steeper slopes, characterized by coarser texture and well-drained conditions
 :::
 
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ Two key soil types dominate the landscape:
 
 ::::::::: findings-grid
 ::: key-finding
-### 🌍 Soil Distribution Patterns
+### Soil Distribution Patterns
 
 Bryce Canyon features distinct soil zonation based on topography. Brycan very fine sandy loam dominates gentle slopes, while Paunsaugunt gravelly loam characterizes steeper, higher elevation areas, creating diverse growing conditions.
 :::
@@ -49,25 +49,25 @@ Lowland areas with fine sandy loam retain more moisture, supporting diverse vege
 :::
 
 ::: key-finding
-### 🌲 Plant Adaptation Strategies
+### Plant Adaptation Strategies
 
 Upland species like Utah juniper and pinyon pine thrive through specialized deep root systems that access water stored deeper in the soil profile. These adaptations allow survival in areas with coarser, well-drained soils (Graybosch & Buchanan, 1983; Stein, 1988).
 :::
 
 ::: key-finding
-### 🌡️ Climate Change Impacts
+### Climate Change Impacts
 
 Declining snowfall and reduced evapotranspiration have shifted vegetation patterns toward species adapted to drier conditions, particularly affecting higher elevation areas where soil moisture is already limited (Carr et al., 2022; Hildebrand, 2012).
 :::
 
 ::: key-finding
-### 🪨 Parent Material Influence
+### Parent Material Influence
 
 Soils formed from limestone parent material tend to be more alkaline and less fertile, limiting plant growth. In contrast, sandstone-derived soils have more neutral pH and better moisture retention, supporting more diverse vegetation (Marine, 1963).
 :::
 
 ::: key-finding
-### 🏔️ Microhabitat Creation
+### Microhabitat Creation
 
 Variations in soil texture, depth, and water retention capacity create distinct microhabitats throughout the park. These differences determine which plant species can thrive in each area (Graybosch & Buchanan, 1983).
 :::
@@ -76,25 +76,47 @@ Variations in soil texture, depth, and water retention capacity create distinct 
 
 ------------------------------------------------------------------------
 
-::::: visual-section
-## Visual Evidence
+## Soil Data & Maps
 
-::: figure-container
-### Figure 1: Soil Map of Bryce Canyon National Park
+::: visual-section
+### Soil Distribution Map
 
-\`\`\`{r, echo=FALSE, fig.cap="Soil distribution map showing Brycan very fine sandy loam and Paunsaugunt gravelly loam throughout Bryce Canyon National Park. Source: Web Soil Survey (2024)", out.width="100%"} \# Insert your soil map image knitr::include_graphics("images/soil_map.png") \`\`\`
+The soil map shows the spatial distribution of different soil types across Bryce Canyon National Park, including the locations of Brycan very fine sandy loam and Paunsaugunt gravelly loam.
 
-\*Soil map illustrating the spatial distribution of major soil types across Bryce Canyon National Park, highlighting the prevalence of fine sandy loams in lowland areas and gravelly loams on steeper terrain.\*
+[Download Soil Map (PDF)](files/_Soil_Map.pdf){.resume-download}
+
+------------------------------------------------------------------------
+
+### Depth to Water Table
+
+**Depth to water table** refers to the vertical distance from the soil surface to the upper surface of groundwater. This measurement is crucial for understanding water availability to plant roots and influences which species can survive in different areas of the park.
+
+[Download Depth to Water Table Map (PDF)](files/_Depth_to_Water_Table.pdf){.resume-download}
+
+------------------------------------------------------------------------
+
+### Soil pH
+
+**Soil pH** measures the acidity or alkalinity of soil on a scale from 0-14, with 7 being neutral. pH affects nutrient availability and plant growth. Soils formed from limestone tend to be more alkaline (pH \> 7), while sandstone-derived soils are more neutral, supporting diverse vegetation.
+
+[Download pH Map (PDF)](files/_pH_1_to_1_Water.pdf){.resume-download}
+
+------------------------------------------------------------------------
+
+### Organic Matter Content
+
+**Organic matter** consists of decomposed plant and animal materials in the soil. It improves soil structure, water retention, and nutrient availability. Higher organic matter content generally supports more diverse and productive plant communities.
+
+[Download Organic Matter Map (PDF)](files/_Organic_Matter.pdf){.resume-download}
+
+------------------------------------------------------------------------
+
+### Available Water Capacity
+
+**Available water capacity (AWC)** is the amount of water that soil can store and make available for plant use. Soils with higher AWC, like Brycan very fine sandy loam, can sustain vegetation during dry periods better than coarse, gravelly soils with low AWC.
+
+[Download Available Water Capacity Map (PDF)](files/AWC.pdf){.resume-download}
 :::
-
-::: figure-container
-### Figure 2: Ecoregions of Utah
-
-\`\`\`{r, echo=FALSE, fig.cap="Ecoregions map of Utah with Bryce Canyon region highlighted, showing the Wasatch and Uinta Mountains context. Source: Woods et al. (2001)", out.width="100%"} \# Insert your ecoregion map knitr::include_graphics("images/ecoregion_map.png") \`\`\`
-
-\*Regional ecoregions map contextualizing Bryce Canyon within the Wasatch and Uinta Mountains ecoregion, demonstrating the park's position within broader ecological zones of Utah.\*
-:::
-:::::
 
 ------------------------------------------------------------------------
 
