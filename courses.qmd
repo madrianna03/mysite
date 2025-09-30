@@ -47,7 +47,7 @@ Studied groundwater hydrology, aquifer dynamics, and California groundwater poli
 
 Applied statistics to environmental datasets using R.\
 **Project:** Personal data study on productivity patterns over time.\
-➡ [*See project*](stats_project.qmd)\
+➡ [*See project*](Project_ENVS193DS_homework3.qmd)\
 *This website was also built during this course!*
 
 ------------------------------------------------------------------------
