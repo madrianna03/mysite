@@ -11,7 +11,7 @@ project:
     - soil_project.qmd
     - stats_project.qmd
     - wildfire_project.qmd
-    - project.qmd
+    - projects.qmd
 
 website:
   title: "Adrianna Martinez"

@@ -1,10 +1,122 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Browse my projects below. Click on any project to read more.\n\n\n  \n\nGIS\n\nContamination of Domestic Wells\n\n\nA spatial analysis of agricultural and ranching contamination threats to domestic well users in California.\n\nView Project →\n\n\n\n  \n\nPolicy Memo\n\nSustainable Lithium Extraction in the Imperial Valley\n\n\nResearch and recommendations on sustainable lithium extraction and waste management in Salton Sea.\n\nView Project →\n\n\n\n  \n\nR / Data Viz\n\nStudy Productivity\n\n\nUsing R to visualize my own daily habits around caffeine, sleep, and study location.\n\nView Project →\n\n\n\n  \n\nReport/Analysis\n\nThe Revitalization and Leadership of Indigenous Fire Management in Australia\n\n\nAn analysis of the long standing role of Aboriginal fire traditions in the context of Australian fire regimes.\n\nView Project →\n\n\n\n  \n\nTechnical Report\n\nErosion, Soils, and Adaptations: Plant Life in Bryce Canyon National Park\n\n\nA report of how soil forming processes have shaped vegetation and adaptation in Bryce Canyon National Park.\n\nView Project →"
+  },
+  {
+    "objectID": "stats_project.html",
+    "href": "stats_project.html",
+    "title": "Statistics Project",
+    "section": "",
+    "text": "View the Project\nThis project analyzes how study productivity is influenced by factors like caffeine intake, amount of sleep, study location, and whether the session was alone or social. It uses personal data tracked over a several months using Excel, R, and Quarto. Includes full code and graphs.\nGitHub Repo"
+  },
+  {
+    "objectID": "gis_project.html#research-question",
+    "href": "gis_project.html#research-question",
+    "title": "Agricultural Land Use and Domestic Well Contamination in California",
+    "section": "Research Question",
+    "text": "Research Question\n\nHow is groundwater quality for domestic users affected by proximity to, and scale of, agricultural and ranching operations in California?"
+  },
+  {
+    "objectID": "gis_project.html#data-sources",
+    "href": "gis_project.html#data-sources",
+    "title": "Agricultural Land Use and Domestic Well Contamination in California",
+    "section": "Data Sources",
+    "text": "Data Sources\n\n\n\nName\nSource\nYear\nLink\nData Format\nAttributes/Fields\nDescription\n\n\n\n\nGAMA Groundwater Info\nUSGS Priority Basin Project\n2023\nGAMA Groundwater\nPoint Vector\nGM_WELL_ID, GM_CHEMICAL_NAME, GM_RESULT\nMeasures 199 contaminants from wells representing 95% of CA groundwater.\n\n\n15_Crop_Mapping_2023\nLand IQ, CA Dept. of Water Resources\n2024\nLand Use Mapping\nPolygon Vector\nCROP_TYPE, Shape_Area, MAIN_CROP\n446,000+ field-classified polygons by crop type.\n\n\nBLM Range Allotments\nBureau of Land Management\n2022–24\nBLM Range\nPolygon Vector\nShape_Area\nGrazing allotments defined spatially in CA.\n\n\nGroundwater Basins (Bulletin 118)\nCA Dept. of Water Resources\n2021–22\ni08 B118\nPolygon Vector\nFID_Groundwater_basins, Basin_area_Km^2\nOfficial basin boundaries across CA.\n\n\nPesticide Use Data\nCA Dept. of Pesticide Regulation\n2022\nPesticide Summary\nPolygon Vector\nPOTASSIUM NITRATE, AMMONIUM NITRATE, etc.\nAcres treated & application rates per chemical and county."
+  },
+  {
+    "objectID": "gis_project.html#methods-overview",
+    "href": "gis_project.html#methods-overview",
+    "title": "Agricultural Land Use and Domestic Well Contamination in California",
+    "section": "Methods Overview",
+    "text": "Methods Overview\nOur analysis used a series of spatial operations in ArcGIS ModelBuilder and Geoprocessing tools. Key components included land classification, contamination filtering, proximity analysis, and regression modeling.\n\nPart 1: Agricultural Land Area Calculation\nWe used Select, Intersect, Dissolve, and Field Calculator to calculate the percent area of cropland and ranchland per groundwater basin.\n\n\nPart 2: Domestic Wells and Land Use\nUsing Spatial Join, Union, and Clip, we filtered and merged domestic wells with cropland and ranchland overlays to assess shared basin locations.\n\n\nPart 3: Nitrate and Other Contaminants\nWells were filtered for key contaminants. Nitrate emerged as most significant (EPA MCL &gt;10 mg/L), and wells exceeding this were isolated for further analysis.\n\n\nPart 4: Proximity Analysis\nUsed the Near tool to calculate distance (km) from each well to nearest cropland and ranchland, enabling spatial exposure analysis.\n\n\nPart 5: Pesticide Use Integration\nStandardized county names and joined pesticide rates to the well dataset to allow exploration of fertilizer impact on contamination.\n\n\nPart 6: Linear Regression Analysis\nUsed OLS (Ordinary Least Squares) to model nitrate concentrations as a function of:\n- Percent cropland and ranchland in basin\n- Distance to cropland and ranchland\n- (Future work) Pesticide application rates"
+  },
+  {
+    "objectID": "gis_project.html#workflow-diagram",
+    "href": "gis_project.html#workflow-diagram",
+    "title": "Agricultural Land Use and Domestic Well Contamination in California",
+    "section": "Workflow Diagram",
+    "text": "Workflow Diagram"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download My Resume (PDF)\n\nEducation\n\nUniversity of California, Santa Barbara\nB.S. in Environmental Studies, Minor in Earth Science\nSanta Barbara, CA — Expected Graduation: 2026\nGPA: 3.8\nHonors: Regents Scholar, Dean’s Scholar, Promise Scholar\n\n\nFaith Lutheran High School\nB.S. in Environmental Studies, Minor in Earth Science\nLas Vegas, NV — Graduation: 2022\nGPA: 4.0 unweighted\nAwards/Honors: Academic Excellence, Scholastic Art and Writing Silver Key and Gold Key x4, Scholar Athlete, English Award, Social Studies Award, AP Scholar with Distinction, Honors Institute, Legacy Award\n\n\n\n\nExperience\n\nThe Honor Bar — Server\nMontecito, CA · June 2025–Present\n- Deliver exceptional service at a high-volume, upscale restaurant\n- Positively greets, serves, and converses with guests to create a personalized dining experience\n- Prioritize tasks and effectively communicates with team of servers, greeters, managers, and culinary colleagues\n\n\n\nSB Channelkeeper — MPA Watch Intern\nGoleta/Santa Barbara, CA · Jan 2025–July 2025\n- Conduct marine surveys and record human activity in MPAs\n- Assist and train volunteers; conduct quality control for logged data\n- Demonstrate leadership and independence in field monitoring\n\n\nBowlero — Server / Bartender\nGoleta, CA · Nov 2023–Present\n- Managed 12–24 bowling lanes while maintaining top sales\n- Coordinated events setup/teardown and multitasked under pressure\n- Worked across departments: front desk, arcade, bar, and food service\n\n\nYMCA — Camp Counselor\nSanta Barbara, CA · June 2023–Aug 2023\n- Led activities for 30–50 kids aged 6–8\n- Coordinated themed days and educational activities\n- Maintained communication with parents and handled conflict resolution\n\n\n\n\nLeadership & Activities\nUCSB Edible Campus Program\nCommunity Gardening & Sustainability Outreach\nSanta Barbara, CA · Mar 2023–June 2024\n:::\n\n\n\nSkills\n\n\nGIS (ArcGIS Pro, QGIS)\n\nMicrosoft Word & Excel\n\nFieldwork & Survey Techniques\n\nEvent Coordination"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I created this site to share my academic work and personal interests. Below are two of my favorite hobbies!\nGrowing up in the desert, my family often spent time off-roading, dirt bike riding, and camping. We would travel to the deserts of Utah, hit trails in South Lake Tahoe, and venture into the red rocks of the Las Vegas valley. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI love drawing and painting! I began practicing visual art in middle school and have expanded my artistic abilities over the years to watercolor, oil and acrylic, printmaking, charcoal and graphite, and ceramics. I love surrealism, incorporating landscapes, portraits, and vibrant colors into my works. Here you can see some of my favorite pieces and the inspiration behind each one.\n\n\n\n\nGrowing and Dying Acrylic on stretched canvas; a play on idealism amidst environmental crisis—the cycle of hope, fear, and mourning.\n\n\n\n\n\nMilk & Honey Mixed media painting exploring heaven, the realm where milk and honey flows.\n\n\n\n\n\nNatives A study of edible plants native to Santa Barbara area; assisted by indigenous knowledge.\n\n\n\n\n\nDesert Sun Inspired by desert camping trips; commissioned by family friends.\n\n\n\n\n\nLaying Lamb A soft-toned watercolor portrait of a lamb; a symbol of softness, vulnerability, and trust.\n\n\n\n\n\nMy Doves Surrealistic depiction of a dove; a meditation on peace and release."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Adrianna Martinez",
     "section": "",
     "text": "Welcome!\nHello and welcome to my page! My name is Adrianna Martinez and I am completing my third year of undergrad at the University of California Santa Barbara. I am pursuing a Bachelor’s of Science in Environmental Studies with a minor in Earth Science. \nI grew up in the heart of Las Vegas, NV, where my passions for the outdoors and habitat preservation began to flourish, driving my academic and career goals today. I have always loved various outdoor activities such as off-roading, skiing, tennis, soccer, camping, and running. \nMy most recent work with Santa Barbara Channelkeeper involved monitoring fishing, boating, and recreational activities in MPA’s along the coast. You can also find me at the The Honor Bar in Montecito, providing compassionate and upscale service to our guests. \nI am currently applying to Masters programs in Earth Sciences. With a new found love for rocks and plate tectonics, I hope to pursue a career path to becoming a geologist!\n\n\nEducation\nEnvironmental Studies B.S. and Earth Science Minor (2026) | University of California, Santa Barbara\nFaith Lutheran High School (2022)"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "A selection of coursework that has shaped my interests in environmental science, geology, and sustainable resource management. Projects linked below will become available soon!"
+  },
+  {
+    "objectID": "courses.html#environmental-science-courses",
+    "href": "courses.html#environmental-science-courses",
+    "title": "Courses",
+    "section": "Environmental Science Courses",
+    "text": "Environmental Science Courses\n\nENV S 154: GIS for Environmental Applications\nExplored how Geographic Information Systems (GIS) help analyze and communicate spatial patterns in environmental systems.\nProject: Spatial analysis of groundwater contamination in California due to agriculture and ranching.\n➡ View Project\n\n\n\nENV S 115: Energy and the Environment\nCovered energy extraction, consumption, justice, economics, and policy.\nProject: Policy memo on sustainable lithium extraction in the Imperial Valley.\n➡ Read the memo\n\n\n\nENV S 140: Ecology and Management of Wildfire\nAnalyzed wildfire impacts on ecosystems, climate, and management strategies.\nIncluded field trips to Sedgwick Reserve and Los Padres National Forest.\nProject: Research paper on cultural burning and fire regimes in Australia.\n➡ Read the paper (coming soon)\n\n\n\nENV S 193GW: Groundwater Analysis\nStudied groundwater hydrology, aquifer dynamics, and California groundwater policy.\n\n\n\nENV S 193DS: Stats for Environmental Science\nApplied statistics to environmental datasets using R.\nProject: Personal data study on productivity patterns over time.\n➡ See project\nThis website was also built during this course!"
+  },
+  {
+    "objectID": "courses.html#earth-science-courses",
+    "href": "courses.html#earth-science-courses",
+    "title": "Courses",
+    "section": "Earth Science Courses",
+    "text": "Earth Science Courses\n\nEARTH 18: Field Studies\nField course exploring the geology of Joshua Tree and the Salton Sea during a 4-day field trip.\n\n\n\nEARTH 2: Principles of Physical Geology\nIntroduction to Earth’s surface and interior processes.\nIncluded a one-day field trip to the Santa Ynez Mountains."
+  },
+  {
+    "objectID": "courses.html#upcoming-courses",
+    "href": "courses.html#upcoming-courses",
+    "title": "Courses",
+    "section": "Upcoming Courses",
+    "text": "Upcoming Courses\n\nENV S 172: Waste Management\nCovers sustainable waste systems, recycling, composting, incineration, and landfilling.\n\n\nEARTH 111: Principles of Paleontology\nStudies the structure and evolution of the biosphere through the fossil record.\n\n\nEARTH 114: Geomaterials\nExamines the chemistry and structure of the Earth’s crust, mantle, and core.\n\n\nENV S 95: Restoration Skills\nHands-on ecological restoration techniques including site planning, species management, and habitat monitoring."
+  },
+  {
+    "objectID": "energy_project.html",
+    "href": "energy_project.html",
+    "title": "energy_project",
+    "section": "",
+    "text": "This memo was created for an undergraduate course on Energy and the Environment, and focuses on the trade-offs and potential policy strategies surrounding lithium extraction from geothermal brine in the Imperial Valley. The project evaluates environmental, social, and economic dimensions of California’s push for domestic battery mineral production in support of its clean energy goals.\n\n\n\n\nDownload the Policy Memo (PDF)\n\n\n\n\n\nFreshwater strain from DLE operations\nDirect lithium extraction (DLE) is more efficient than evaporation methods but still consumes significant freshwater from the Colorado River, a source already facing severe depletion.\nAir quality and Salton Sea risks\nLithium development could worsen Imperial Valley’s already poor air quality by accelerating Salton Sea shrinkage, exposing pesticide-laden playa dust that exacerbates respiratory illnesses.\nHazardous waste gaps\nDLE generates solid waste that often contains heavy metals like arsenic and lead. Current oversight is insufficient—stricter tracking, audits, and safer disposal methods are urgently needed.\nCultural site and Indigenous rights violations\nProposed projects threaten ancestral lands and sacred sites like Obsidian Butte. Existing consultation processes fall short of UN FPIC standards and must be reformed to center Indigenous leadership.\nSeismic risks from geothermal expansion\nThe Imperial Valley’s location on the San Andreas Fault raises concerns about induced seismicity. Geothermal infrastructure must meet higher engineering standards and include real-time seismic monitoring.\nCumulative impact assessments are lacking\nExisting environmental reviews fail to account for the combined effects of lithium, geothermal, and regional water stress—comprehensive EIAs must become mandatory for all new projects."
+  },
+  {
+    "objectID": "energy_project.html#project-overview",
+    "href": "energy_project.html#project-overview",
+    "title": "energy_project",
+    "section": "",
+    "text": "This memo was created for an undergraduate course on Energy and the Environment, and focuses on the trade-offs and potential policy strategies surrounding lithium extraction from geothermal brine in the Imperial Valley. The project evaluates environmental, social, and economic dimensions of California’s push for domestic battery mineral production in support of its clean energy goals."
+  },
+  {
+    "objectID": "energy_project.html#memo-pdf",
+    "href": "energy_project.html#memo-pdf",
+    "title": "energy_project",
+    "section": "",
+    "text": "Download the Policy Memo (PDF)"
+  },
+  {
+    "objectID": "energy_project.html#key-takeaways",
+    "href": "energy_project.html#key-takeaways",
+    "title": "energy_project",
+    "section": "",
+    "text": "Freshwater strain from DLE operations\nDirect lithium extraction (DLE) is more efficient than evaporation methods but still consumes significant freshwater from the Colorado River, a source already facing severe depletion.\nAir quality and Salton Sea risks\nLithium development could worsen Imperial Valley’s already poor air quality by accelerating Salton Sea shrinkage, exposing pesticide-laden playa dust that exacerbates respiratory illnesses.\nHazardous waste gaps\nDLE generates solid waste that often contains heavy metals like arsenic and lead. Current oversight is insufficient—stricter tracking, audits, and safer disposal methods are urgently needed.\nCultural site and Indigenous rights violations\nProposed projects threaten ancestral lands and sacred sites like Obsidian Butte. Existing consultation processes fall short of UN FPIC standards and must be reformed to center Indigenous leadership.\nSeismic risks from geothermal expansion\nThe Imperial Valley’s location on the San Andreas Fault raises concerns about induced seismicity. Geothermal infrastructure must meet higher engineering standards and include real-time seismic monitoring.\nCumulative impact assessments are lacking\nExisting environmental reviews fail to account for the combined effects of lithium, geothermal, and regional water stress—comprehensive EIAs must become mandatory for all new projects."
   },
   {
     "objectID": "wildfire_project.html",
@@ -54,110 +166,5 @@
     "title": "Wildfire Project",
     "section": "",
     "text": "Leadership Recognition: Effective fire management requires genuine Indigenous leadership and decision-making authority, not merely adoption of techniques\nRegulatory Reform: Current frameworks remain poorly adapted to traditional burning approaches, requiring accommodation of fine-scale patch burning\nKnowledge Transmission: Intensive efforts needed to reconnect young Aboriginal people with fire knowledge embedded in broader cultural contexts"
-  },
-  {
-    "objectID": "energy_project.html",
-    "href": "energy_project.html",
-    "title": "energy_project",
-    "section": "",
-    "text": "This memo was created for an undergraduate course on Energy and the Environment, and focuses on the trade-offs and potential policy strategies surrounding lithium extraction from geothermal brine in the Imperial Valley. The project evaluates environmental, social, and economic dimensions of California’s push for domestic battery mineral production in support of its clean energy goals.\n\n\n\n\nDownload the Policy Memo (PDF)\n\n\n\n\n\nFreshwater strain from DLE operations\nDirect lithium extraction (DLE) is more efficient than evaporation methods but still consumes significant freshwater from the Colorado River, a source already facing severe depletion.\nAir quality and Salton Sea risks\nLithium development could worsen Imperial Valley’s already poor air quality by accelerating Salton Sea shrinkage, exposing pesticide-laden playa dust that exacerbates respiratory illnesses.\nHazardous waste gaps\nDLE generates solid waste that often contains heavy metals like arsenic and lead. Current oversight is insufficient—stricter tracking, audits, and safer disposal methods are urgently needed.\nCultural site and Indigenous rights violations\nProposed projects threaten ancestral lands and sacred sites like Obsidian Butte. Existing consultation processes fall short of UN FPIC standards and must be reformed to center Indigenous leadership.\nSeismic risks from geothermal expansion\nThe Imperial Valley’s location on the San Andreas Fault raises concerns about induced seismicity. Geothermal infrastructure must meet higher engineering standards and include real-time seismic monitoring.\nCumulative impact assessments are lacking\nExisting environmental reviews fail to account for the combined effects of lithium, geothermal, and regional water stress—comprehensive EIAs must become mandatory for all new projects."
-  },
-  {
-    "objectID": "energy_project.html#project-overview",
-    "href": "energy_project.html#project-overview",
-    "title": "energy_project",
-    "section": "",
-    "text": "This memo was created for an undergraduate course on Energy and the Environment, and focuses on the trade-offs and potential policy strategies surrounding lithium extraction from geothermal brine in the Imperial Valley. The project evaluates environmental, social, and economic dimensions of California’s push for domestic battery mineral production in support of its clean energy goals."
-  },
-  {
-    "objectID": "energy_project.html#memo-pdf",
-    "href": "energy_project.html#memo-pdf",
-    "title": "energy_project",
-    "section": "",
-    "text": "Download the Policy Memo (PDF)"
-  },
-  {
-    "objectID": "energy_project.html#key-takeaways",
-    "href": "energy_project.html#key-takeaways",
-    "title": "energy_project",
-    "section": "",
-    "text": "Freshwater strain from DLE operations\nDirect lithium extraction (DLE) is more efficient than evaporation methods but still consumes significant freshwater from the Colorado River, a source already facing severe depletion.\nAir quality and Salton Sea risks\nLithium development could worsen Imperial Valley’s already poor air quality by accelerating Salton Sea shrinkage, exposing pesticide-laden playa dust that exacerbates respiratory illnesses.\nHazardous waste gaps\nDLE generates solid waste that often contains heavy metals like arsenic and lead. Current oversight is insufficient—stricter tracking, audits, and safer disposal methods are urgently needed.\nCultural site and Indigenous rights violations\nProposed projects threaten ancestral lands and sacred sites like Obsidian Butte. Existing consultation processes fall short of UN FPIC standards and must be reformed to center Indigenous leadership.\nSeismic risks from geothermal expansion\nThe Imperial Valley’s location on the San Andreas Fault raises concerns about induced seismicity. Geothermal infrastructure must meet higher engineering standards and include real-time seismic monitoring.\nCumulative impact assessments are lacking\nExisting environmental reviews fail to account for the combined effects of lithium, geothermal, and regional water stress—comprehensive EIAs must become mandatory for all new projects."
-  },
-  {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses",
-    "section": "",
-    "text": "A selection of coursework that has shaped my interests in environmental science, geology, and sustainable resource management. Projects linked below will become available soon!"
-  },
-  {
-    "objectID": "courses.html#environmental-science-courses",
-    "href": "courses.html#environmental-science-courses",
-    "title": "Courses",
-    "section": "Environmental Science Courses",
-    "text": "Environmental Science Courses\n\nENV S 154: GIS for Environmental Applications\nExplored how Geographic Information Systems (GIS) help analyze and communicate spatial patterns in environmental systems.\nProject: Spatial analysis of groundwater contamination in California due to agriculture and ranching.\n➡ View Project\n\n\n\nENV S 115: Energy and the Environment\nCovered energy extraction, consumption, justice, economics, and policy.\nProject: Policy memo on sustainable lithium extraction in the Imperial Valley.\n➡ Read the memo\n\n\n\nENV S 140: Ecology and Management of Wildfire\nAnalyzed wildfire impacts on ecosystems, climate, and management strategies.\nIncluded field trips to Sedgwick Reserve and Los Padres National Forest.\nProject: Research paper on cultural burning and fire regimes in Australia.\n➡ Read the paper (coming soon)\n\n\n\nENV S 193GW: Groundwater Analysis\nStudied groundwater hydrology, aquifer dynamics, and California groundwater policy.\n\n\n\nENV S 193DS: Stats for Environmental Science\nApplied statistics to environmental datasets using R.\nProject: Personal data study on productivity patterns over time.\n➡ See project\nThis website was also built during this course!"
-  },
-  {
-    "objectID": "courses.html#earth-science-courses",
-    "href": "courses.html#earth-science-courses",
-    "title": "Courses",
-    "section": "Earth Science Courses",
-    "text": "Earth Science Courses\n\nEARTH 18: Field Studies\nField course exploring the geology of Joshua Tree and the Salton Sea during a 4-day field trip.\n\n\n\nEARTH 2: Principles of Physical Geology\nIntroduction to Earth’s surface and interior processes.\nIncluded a one-day field trip to the Santa Ynez Mountains."
-  },
-  {
-    "objectID": "courses.html#upcoming-courses",
-    "href": "courses.html#upcoming-courses",
-    "title": "Courses",
-    "section": "Upcoming Courses",
-    "text": "Upcoming Courses\n\nENV S 172: Waste Management\nCovers sustainable waste systems, recycling, composting, incineration, and landfilling.\n\n\nEARTH 111: Principles of Paleontology\nStudies the structure and evolution of the biosphere through the fossil record.\n\n\nEARTH 114: Geomaterials\nExamines the chemistry and structure of the Earth’s crust, mantle, and core.\n\n\nENV S 95: Restoration Skills\nHands-on ecological restoration techniques including site planning, species management, and habitat monitoring."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I created this site to share my academic work and personal interests. Below are two of my favorite hobbies!\nGrowing up in the desert, my family often spent time off-roading, dirt bike riding, and camping. We would travel to the deserts of Utah, hit trails in South Lake Tahoe, and venture into the red rocks of the Las Vegas valley. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI love drawing and painting! I began practicing visual art in middle school and have expanded my artistic abilities over the years to watercolor, oil and acrylic, printmaking, charcoal and graphite, and ceramics. I love surrealism, incorporating landscapes, portraits, and vibrant colors into my works. Here you can see some of my favorite pieces and the inspiration behind each one.\n\n\n\n\nGrowing and Dying Acrylic on stretched canvas; a play on idealism amidst environmental crisis—the cycle of hope, fear, and mourning.\n\n\n\n\n\nMilk & Honey Mixed media painting exploring heaven, the realm where milk and honey flows.\n\n\n\n\n\nNatives A study of edible plants native to Santa Barbara area; assisted by indigenous knowledge.\n\n\n\n\n\nDesert Sun Inspired by desert camping trips; commissioned by family friends.\n\n\n\n\n\nLaying Lamb A soft-toned watercolor portrait of a lamb; a symbol of softness, vulnerability, and trust.\n\n\n\n\n\nMy Doves Surrealistic depiction of a dove; a meditation on peace and release."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Download My Resume (PDF)\n\nEducation\n\nUniversity of California, Santa Barbara\nB.S. in Environmental Studies, Minor in Earth Science\nSanta Barbara, CA — Expected Graduation: 2026\nGPA: 3.8\nHonors: Regents Scholar, Dean’s Scholar, Promise Scholar\n\n\nFaith Lutheran High School\nB.S. in Environmental Studies, Minor in Earth Science\nLas Vegas, NV — Graduation: 2022\nGPA: 4.0 unweighted\nAwards/Honors: Academic Excellence, Scholastic Art and Writing Silver Key and Gold Key x4, Scholar Athlete, English Award, Social Studies Award, AP Scholar with Distinction, Honors Institute, Legacy Award\n\n\n\n\nExperience\n\nThe Honor Bar — Server\nMontecito, CA · June 2025–Present\n- Deliver exceptional service at a high-volume, upscale restaurant\n- Positively greets, serves, and converses with guests to create a personalized dining experience\n- Prioritize tasks and effectively communicates with team of servers, greeters, managers, and culinary colleagues\n\n\n\nSB Channelkeeper — MPA Watch Intern\nGoleta/Santa Barbara, CA · Jan 2025–July 2025\n- Conduct marine surveys and record human activity in MPAs\n- Assist and train volunteers; conduct quality control for logged data\n- Demonstrate leadership and independence in field monitoring\n\n\nBowlero — Server / Bartender\nGoleta, CA · Nov 2023–Present\n- Managed 12–24 bowling lanes while maintaining top sales\n- Coordinated events setup/teardown and multitasked under pressure\n- Worked across departments: front desk, arcade, bar, and food service\n\n\nYMCA — Camp Counselor\nSanta Barbara, CA · June 2023–Aug 2023\n- Led activities for 30–50 kids aged 6–8\n- Coordinated themed days and educational activities\n- Maintained communication with parents and handled conflict resolution\n\n\n\n\nLeadership & Activities\nUCSB Edible Campus Program\nCommunity Gardening & Sustainability Outreach\nSanta Barbara, CA · Mar 2023–June 2024\n:::\n\n\n\nSkills\n\n\nGIS (ArcGIS Pro, QGIS)\n\nMicrosoft Word & Excel\n\nFieldwork & Survey Techniques\n\nEvent Coordination"
-  },
-  {
-    "objectID": "gis_project.html#research-question",
-    "href": "gis_project.html#research-question",
-    "title": "Agricultural Land Use and Domestic Well Contamination in California",
-    "section": "Research Question",
-    "text": "Research Question\n\nHow is groundwater quality for domestic users affected by proximity to, and scale of, agricultural and ranching operations in California?"
-  },
-  {
-    "objectID": "gis_project.html#data-sources",
-    "href": "gis_project.html#data-sources",
-    "title": "Agricultural Land Use and Domestic Well Contamination in California",
-    "section": "Data Sources",
-    "text": "Data Sources\n\n\n\nName\nSource\nYear\nLink\nData Format\nAttributes/Fields\nDescription\n\n\n\n\nGAMA Groundwater Info\nUSGS Priority Basin Project\n2023\nGAMA Groundwater\nPoint Vector\nGM_WELL_ID, GM_CHEMICAL_NAME, GM_RESULT\nMeasures 199 contaminants from wells representing 95% of CA groundwater.\n\n\n15_Crop_Mapping_2023\nLand IQ, CA Dept. of Water Resources\n2024\nLand Use Mapping\nPolygon Vector\nCROP_TYPE, Shape_Area, MAIN_CROP\n446,000+ field-classified polygons by crop type.\n\n\nBLM Range Allotments\nBureau of Land Management\n2022–24\nBLM Range\nPolygon Vector\nShape_Area\nGrazing allotments defined spatially in CA.\n\n\nGroundwater Basins (Bulletin 118)\nCA Dept. of Water Resources\n2021–22\ni08 B118\nPolygon Vector\nFID_Groundwater_basins, Basin_area_Km^2\nOfficial basin boundaries across CA.\n\n\nPesticide Use Data\nCA Dept. of Pesticide Regulation\n2022\nPesticide Summary\nPolygon Vector\nPOTASSIUM NITRATE, AMMONIUM NITRATE, etc.\nAcres treated & application rates per chemical and county."
-  },
-  {
-    "objectID": "gis_project.html#methods-overview",
-    "href": "gis_project.html#methods-overview",
-    "title": "Agricultural Land Use and Domestic Well Contamination in California",
-    "section": "Methods Overview",
-    "text": "Methods Overview\nOur analysis used a series of spatial operations in ArcGIS ModelBuilder and Geoprocessing tools. Key components included land classification, contamination filtering, proximity analysis, and regression modeling.\n\nPart 1: Agricultural Land Area Calculation\nWe used Select, Intersect, Dissolve, and Field Calculator to calculate the percent area of cropland and ranchland per groundwater basin.\n\n\nPart 2: Domestic Wells and Land Use\nUsing Spatial Join, Union, and Clip, we filtered and merged domestic wells with cropland and ranchland overlays to assess shared basin locations.\n\n\nPart 3: Nitrate and Other Contaminants\nWells were filtered for key contaminants. Nitrate emerged as most significant (EPA MCL &gt;10 mg/L), and wells exceeding this were isolated for further analysis.\n\n\nPart 4: Proximity Analysis\nUsed the Near tool to calculate distance (km) from each well to nearest cropland and ranchland, enabling spatial exposure analysis.\n\n\nPart 5: Pesticide Use Integration\nStandardized county names and joined pesticide rates to the well dataset to allow exploration of fertilizer impact on contamination.\n\n\nPart 6: Linear Regression Analysis\nUsed OLS (Ordinary Least Squares) to model nitrate concentrations as a function of:\n- Percent cropland and ranchland in basin\n- Distance to cropland and ranchland\n- (Future work) Pesticide application rates"
-  },
-  {
-    "objectID": "gis_project.html#workflow-diagram",
-    "href": "gis_project.html#workflow-diagram",
-    "title": "Agricultural Land Use and Domestic Well Contamination in California",
-    "section": "Workflow Diagram",
-    "text": "Workflow Diagram"
-  },
-  {
-    "objectID": "stats_project.html",
-    "href": "stats_project.html",
-    "title": "Statistics Project",
-    "section": "",
-    "text": "View the Project\nThis project analyzes how study productivity is influenced by factors like caffeine intake, amount of sleep, study location, and whether the session was alone or social. It uses personal data tracked over a several months using Excel, R, and Quarto. Includes full code and graphs.\nGitHub Repo"
   }
 ]
