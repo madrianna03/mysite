@@ -1,6 +1,17 @@
 project:
   type: website
   output-dir: docs
+  render: 
+    - index.qmd
+    - about.qmd
+    - courses.qmd
+    - resume.qmd
+    - energy_project.qmd
+    - gis_project.qmd
+    - soil_project.qmd
+    - stats_project.qmd
+    - wildfire_project.qmd
+    - project.qmd
 
 website:
   title: "Adrianna Martinez"
