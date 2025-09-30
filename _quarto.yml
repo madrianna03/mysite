@@ -9,7 +9,6 @@ project:
     - energy_project.qmd
     - gis_project.qmd
     - soil_project.qmd
-    - stats_project.qmd
     - wildfire_project.qmd
     - projects.qmd
     - Project_ENVS193DS_homework3.qmd
