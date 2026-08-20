@@ -10,6 +10,21 @@ A selection of coursework that has shaped my interests in environmental science,
 
 ------------------------------------------------------------------------
 
+## Graduate Coursework
+
+### GEO 392F: Fundamentals/Applications of ICP-MS
+Explores inductively coupled plasma mass spectrometry (ICP-MS) for trace, minor, and major element measurement.\
+Covers technique fundamentals and applications through hands-on lab experience.
+
+------------------------------------------------------------------------
+
+### GEO 388L: Isotope Geology
+Overview of stable and radiogenic isotope geochemistry, including mass spectrometry, geochronology, and thermochronology.\
+Covers applications to the hydrologic cycle, magmatic and metamorphic processes, and crust-mantle evolution.
+
+
+------------------------------------------------------------------------
+
 ## Environmental Science Courses
 
 ### ENV S 154: GIS for Environmental Applications
@@ -60,6 +75,12 @@ Applied statistics to environmental datasets using R.\
 
 ------------------------------------------------------------------------
 
+### ENV S 95: Restoration Skills
+
+Hands-on ecological restoration techniques including site planning, species management, and habitat monitoring.
+
+------------------------------------------------------------------------
+
 ## Earth Science Courses
 
 ### EARTH 18: Field Studies
@@ -93,12 +114,16 @@ Examines the chemistry and structure of the Earth’s minerals.
 
 ------------------------------------------------------------------------
 
-### ENV S 95: Restoration Skills
-
-Hands-on ecological restoration techniques including site planning, species management, and habitat monitoring.
-
+### EARTH 103: Structural Geology
+Studied deformation of rocks—faulting, folding, and flow—at scales ranging from mountain belts to microscopic.\
+Included an overnight trip to the Mojave Desert.
 
 ------------------------------------------------------------------------
 
-## Upcoming Courses
+### EARTH 115: Analytical Methods
+Explored optical properties of inorganic crystals and mineral identification using the polarizing microscope.\
+Covered theory and application of electron and ion-beam instruments in geomaterial characterization.
+
+
+------------------------------------------------------------------------
 
