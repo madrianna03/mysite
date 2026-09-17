@@ -6,15 +6,23 @@ format:
 page-layout: full
 ---
 
-[Download My Resume (PDF)](files/Martinez_Resume_Geology.pdf){.resume-download}
+[Download My Resume (PDF)](files/Martinez_Adrianna_Resume_Geology.pdf){.resume-download}
 
 # Education
 
 ::: resume-card
+**University of Texas at Austin — Jackson School of Geosciences**\
+*M.S. in Geosciences*\
+Austin, TX — *August 2026–May 2028 (Expected)*\
+**Advisor:** Dr. Brent Elliott\
+**Role:** Graduate Research Assistant, Bureau of Economic Geology
+:::
+
+::: resume-card
 **University of California, Santa Barbara**\
 *B.S. in Environmental Studies, Minor in Earth Science*\
-Santa Barbara, CA — *Expected Graduation: 2026*\
-**GPA:** 3.8\
+Santa Barbara, CA — *Graduated June 2026*\
+**GPA:** 3.7\
 **Honors:** Regents Scholar, Dean’s Scholar, Promise Scholar
 :::
 
@@ -31,9 +39,18 @@ Las Vegas, NV — *Graduation: 2022*\
 # Experience
 
 ::: resume-card
+### Bureau of Economic Geology — *Graduate Research Assistant*
+
+Austin, TX · August 2026–Present\
+- Investigate REE transport mechanisms in West Texas laccoliths, focusing on the Sierra Blanca Complex\
+- Conduct petrographic and mineral-chemical (SEM/EPMA) analysis of REE-mineral assemblages\
+- Advised by Dr. Brent Elliott
+:::
+
+::: resume-card
 ### The Honor Bar — *Server*
 
-Montecito, CA · June 2025–Present\
+Montecito, CA · June 2025–July 2026\
 - Deliver exceptional service at a high-volume, upscale restaurant\
 - Positively greets, serves, and converses with guests to create a personalized dining experience\
 - Prioritize tasks and effectively communicates with team of servers, greeters, managers, and culinary colleagues\
@@ -51,7 +68,7 @@ Goleta/Santa Barbara, CA · Jan 2025–July 2025\
 ::: resume-card
 ### Bowlero — *Server / Bartender*
 
-Goleta, CA · Nov 2023–Present\
+Goleta, CA · Nov 2023–June 2025\
 - Managed 12–24 bowling lanes while maintaining top sales\
 - Coordinated events setup/teardown and multitasked under pressure\
 - Worked across departments: front desk, arcade, bar, and food service
@@ -70,9 +87,16 @@ Santa Barbara, CA · June 2023–Aug 2023\
 
 # Leadership & Activities
 
+::: resume-card
+**Society of Economic Geologists (SEG) — UT Austin Student Chapter**\
+*Board Member*\
+Austin, TX · August 2026–Present
+:::
+
+::: resume-card
 **UCSB Edible Campus Program**\
 *Community Gardening & Sustainability Outreach*\
-Santa Barbara, CA · Mar 2023–June 2024\
+Santa Barbara, CA · Mar 2023–June 2024
 :::
 
 ------------------------------------------------------------------------
@@ -80,8 +104,11 @@ Santa Barbara, CA · Mar 2023–June 2024\
 # Skills
 
 ::: resume-card
--   GIS (ArcGIS Pro, QGIS)\
--   Microsoft Word & Excel\
--   Fieldwork & Survey Techniques\
--   Event Coordination\
+- ICP-MS (Inductively Coupled Plasma Mass Spectrometry)\
+- Isotope Geochemistry\
+- SEM (Scanning Electron Microscopy) & Thin Section Petrography\
+- GIS (ArcGIS Pro, QGIS)\
+- Microsoft Word & Excel\
+- Fieldwork & Survey Techniques\
+- Event Coordination
 :::
