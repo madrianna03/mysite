@@ -8,6 +8,29 @@ page-layout: full
 Browse my projects below. Click on any project to read more.
 
 ::::::::::::: project-gallery
+
+:::: project-card
+<a href="masters_research_project.html"> <img src="images/masters_research_project_cover.jpg" alt="Graduate Research Project" class="project-image"/> </a>
+
+::: project-content
+[Critical Mineral Mining]{.project-tag}
+
+<h3 class="project-title">
+
+Critical Mineral Enrichment in the Sierra Blanca Laccoliths
+
+</h3>
+
+<p class="project-description">
+
+Investigating whether the REE and beryllium vapor phase enrichment process documented at Round Top extends across the broader Sierra Blanca laccolith complex.
+
+</p>
+
+<a href="masters_project.html" class="project-link">View Project →</a>
+:::
+::::
+
 :::: project-card
 <a href="gis_project.html"> <img src="images/GIS_project_cover.jpg" alt="GIS Project" class="project-image"/> </a>
 

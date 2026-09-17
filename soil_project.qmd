@@ -26,8 +26,8 @@ Bryce Canyon National Park is characterized by dramatic topography including hig
 
 Two key soil types dominate the landscape:
 
--   **Brycan very fine sandy loam**: Typically found on gentle slopes with fine texture that allows for moderate water retention
--   **Paunsaugunt gravelly loam**: Located at higher elevations and steeper slopes, characterized by coarser texture and well-drained conditions
+- **Brycan very fine sandy loam**: Typically found on gentle slopes with fine texture that allows for moderate water retention
+- **Paunsaugunt gravelly loam**: Located at higher elevations and steeper slopes, characterized by coarser texture and well-drained conditions
 :::
 
 ------------------------------------------------------------------------
@@ -126,27 +126,27 @@ The soil map shows the spatial distribution of different soil types across Bryce
 ::: soil-card
 ### Brycan Very Fine Sandy Loam
 
--   **Location**: Gentle slopes, lowland areas
--   **Texture**: Fine, well-structured
--   **Water retention**: Moderate to high
--   **Vegetation**: Grasses, forbs, shrubs
--   **Origin**: Eolian (wind-deposited) sandstone
--   **pH**: More neutral
--   **Fertility**: Higher nutrient availability
--   **Plant diversity**: Supports broader species variety
+- **Location**: Gentle slopes, lowland areas
+- **Texture**: Fine, well-structured
+- **Water retention**: Moderate to high
+- **Vegetation**: Grasses, forbs, shrubs
+- **Origin**: Eolian (wind-deposited) sandstone
+- **pH**: More neutral
+- **Fertility**: Higher nutrient availability
+- **Plant diversity**: Supports broader species variety
 :::
 
 ::: soil-card
 ### Paunsaugunt Gravelly Loam
 
--   **Location**: Steep slopes, higher elevations
--   **Texture**: Coarse, rocky
--   **Water retention**: Low (rapid drainage)
--   **Vegetation**: Pinyon pine, Utah juniper
--   **Characteristics**: Shallow, well-drained
--   **pH**: Variable, often more alkaline
--   **Fertility**: Lower nutrient availability
--   **Plant diversity**: Limited to drought-adapted species
+- **Location**: Steep slopes, higher elevations
+- **Texture**: Coarse, rocky
+- **Water retention**: Low (rapid drainage)
+- **Vegetation**: Pinyon pine, Utah juniper
+- **Characteristics**: Shallow, well-drained
+- **pH**: Variable, often more alkaline
+- **Fertility**: Lower nutrient availability
+- **Plant diversity**: Limited to drought-adapted species
 :::
 :::::
 
@@ -173,9 +173,9 @@ Climate change, particularly the decrease in snowfall, further exacerbates chall
 
 ### Future Research Directions
 
--   Collect real-time soil moisture data across various soil types to understand seasonal variations
--   Examine the role of soil microbes and their interaction with plant roots
--   Assess long-term vegetation responses to continued climate change
+- Collect real-time soil moisture data across various soil types to understand seasonal variations
+- Examine the role of soil microbes and their interaction with plant roots
+- Assess long-term vegetation responses to continued climate change
 :::
 
 ------------------------------------------------------------------------

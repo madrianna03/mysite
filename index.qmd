@@ -26,11 +26,14 @@ Hello and welcome to my page! My name is Adrianna Martinez and I am a first-gene
 
 I completed my Bachelor's of Science in Environmental Studies with a minor in Earth Science at UC Santa Barbara, where the landscape itself made the case for geology daily; mountains rising transversely, active faults, and rapidly eroding marine terraces compressing so many processes into a single place. Through coursework in GIS, energy policy, and soil science, I found myself continually pulled toward the geological controls beneath the environmental systems I was studying. That pull, combined with a growing awareness of the mineral demands of the clean energy transition, led me toward critical mineral systems and eventually to studying how hydrothermal fluids mobilize and concentrate REEs.
 
-Outside of academics, I enjoy off-roading, skiing, tennis, drawiing and painting, camping, and running, as well as exploring new landscapes and their geologic stories.
+Outside of academics, I enjoy off-roading, skiing, tennis, drawing and painting, camping, and running, as well as exploring new landscapes and their geologic stories.
 
 My current research examines whether the vapor-phase crystallization process responsible for REE-fluoride mineralization at Round Top — one of the few recognized HREE resource prospects for US critical mineral production — extends across the broader five-laccolith complex or is unique to Round Top itself. You can learn more about this project on my [research page](projects.qmd).
 
 ### Education
+
+**M.S in Geoscience** (2028) \| 
+University of Texas at Austin
 
 **Environmental Studies B.S. and Earth Science Minor** (2026) \| University of California, Santa Barbara
 
