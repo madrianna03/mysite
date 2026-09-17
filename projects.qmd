@@ -27,7 +27,7 @@ Investigating whether the REE and beryllium vapor phase enrichment process docum
 
 </p>
 
-<a href="masters_project.html" class="project-link">View Project →</a>
+<a href="masters_research_project.html" class="project-link">View Project →</a>
 :::
 ::::
 
