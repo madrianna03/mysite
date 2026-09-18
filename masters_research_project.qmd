@@ -14,7 +14,7 @@ format:
 
 **Does the vapor-phase enrichment process responsible for REE and beryllium mineralization at Round Top extend across the broader Sierra Blanca laccolith complex, or is it unique to Round Top itself?**
 
-This research, conducted under Dr. Brent Elliott at the Bureau of Economic Geology, University of Texas at Austin, investigates the mineralogical and geochemical processes responsible for rare earth element (REE) and beryllium enrichment in the Sierra Blanca laccolith complex of far West Texas — one of the only known sources of heavy rare earth elements (HREE) currently under active commercial development in the United States bu US Rare Earths.
+This research, conducted under Dr. Brent Elliott at the Bureau of Economic Geology, University of Texas at Austin, investigates the mineralogical and geochemical processes responsible for rare earth element (REE) and beryllium enrichment in the Sierra Blanca laccolith complex of far West Texas, one of the only known sources of heavy rare earth elements (HREE) currently under active commercial development in the United States by US Rare Earths.
 :::
 
 ------------------------------------------------------------------------
